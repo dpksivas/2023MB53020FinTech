@@ -1,0 +1,500 @@
+﻿asset_name,asset_code,industry_name,market_cap,trendlyne_durability_score,trendlyne_valuation_score,trendlyne_momentum_score,dvm_classification_text,normalized_momentum_score,de_ratio,rev_growth_percentage,ann_net_cashflow,3yr_net_cashflow_percentage,npm_ttm_percentage,ebit_annual_percentage,total_assets_annual,annual_roe_percentage,roe_3yr_percentage,roe_5yr_percentage,roce_annual_percentage,roce_3yr_percentage,promoter_holding_percentage,dividend_rate,pe
+360 One Wam Ltd.,360ONE.NS,Capital Markets,45533.21,30,16.67,59.92,Momentum Trap,67.7,2.02,41.72,-66.95,77.26,29.32,65.89,15118.85,23.31,21.22,16.68,15.63,13.67,14.78,0.9,49.28
+3M India Ltd.,3MINDIA.NS,Industrial Machinery,34527.53,90,17.17,38.5,Expensive Performer,43.5,0,5.18,227.06,-16.33,13.87,18.37,3398.54,22.62,18.22,14.39,29.95,24.2,75,2.23,61
+ABB India Ltd.,ABB.NS,Heavy Electrical Equipment,140664.8,85,12.83,33.27,Falling Comet,37.59,0,22.88,-2270.14,-473.13,14.52,16,11001.19,20.89,18.1,13.8,27.91,21.28,75,0.52,83.63
+ACC Ltd.,ACC.NS,Cement & Cement Products,37557.46,80,66,30.01,"Value Stock, Under Radar",33.91,0,-9.31,1306.87,-3.67,10.17,13.38,23385.64,14.3,0,0,15.45,0,56.69,0.38,18.38
+AIA Engineering Ltd.,AIAENG.NS,Other Industrial Goods,31728.94,55,32,41.36,Mid-range Performer,46.73,0,-0.16,-126.77,-140.41,24.1,31.21,7495.17,17.05,16.19,15.57,22.45,20.91,58.5,0.47,30.03
+APL Apollo Tubes Ltd.,APLAPOLLO.NS,Iron & Steel Products,42461.26,50,22.5,54.78,Expensive Performer,61.89,0.22,12.22,222.47,886.95,3.12,6.02,7186.79,20.31,22.09,21.01,23.25,25.86,28.31,0.36,72.84
+Aadhar Housing Finance Ltd.,AADHARHFC.NS,Housing Finance ,18211.28,45,32.83,25.51,Slowing Down Stock,28.82,0,26.59,-48.88,95.02,29.33,75.23,19093.06,16.84,15.23,13.28,43.24,41.8,75.89,0,21.84
+Aarti Industries Ltd.,AARTIIND.NS,Specialty Chemicals,14448.23,30,47.83,34.83,Weak Stock,39.35,0.29,-3.61,-71.01,-143.03,6.37,9.52,9615.51,7.87,15.07,15.63,8.62,16,42.61,0.25,32.46
+Aavas Financiers Ltd.,AAVAS.NS,Housing Finance ,13302.09,45,35.33,53.7,Mid-range Performer,60.67,0.37,25.47,-156.11,52.45,24.51,72.01,16519.45,13,12.95,12.55,27.45,23.6,26.47,0,24.94
+Abbott India Ltd.,ABBOTINDIA.NS,Pharmaceuticals,62685.44,75,19.5,62.86,Expensive Star,71.02,0,10.8,52.07,-28.8,21.18,27.87,5193.49,32.47,30.19,28.3,42.33,39.07,74.99,1.39,48.8
+Action Construction Equipment Ltd.,ACE.NS,Construction & Engineering,17176.56,85,27,48.83,Expensive Performer,55.17,0,35.9,26.54,-10.04,11.87,15.68,2169.21,26.68,19.76,17.28,36.72,27.45,65.41,0.14,46.97
+Adani Energy Solutions Ltd.,ADANIENSOL.NS,Electric Utilities,93177.48,55,25.67,35.75,Expensive Performer,40.39,2.65,24.41,551.35,155.94,2.58,30.14,58578.81,8.99,12.44,14.33,9.9,8.47,69.94,0,173.39
+Adani Enterprises Ltd.,ADANIENT.NS,Commodity Trading  & Distribution,290507.28,,37.17,36.69,,41.45,1.24,-28.87,108.69,114.49,5.24,10.57,160731.85,9.18,6.84,6.52,8.78,7.54,74.89,0.05,52.48
+Adani Green Energy Ltd.,ADANIGREEN.NS,Electric Utilities,156740.02,60,16,29.93,Falling Comet,33.82,4.82,21.16,606,233.77,10.52,71.95,88538,13.07,23.57,18.41,10.74,8.3,60.94,0,138.95
+Adani Ports & Special Economic Zone Ltd.,ADANIPORTS.NS,Marine Port & Services,249863.27,90,45.83,32.1,Falling Comet,36.27,0.71,25.91,270.92,108.82,34.48,50.44,118917.87,15.36,13.15,14.13,13.15,10.65,65.89,0.52,25.48
+Adani Power Ltd.,ADANIPOWER.NS,Electric Utilities,195546.8,75,48.33,37.15,Mid-range Performer,41.97,0.74,40.06,791.15,195.54,23.28,48.02,92324.77,58.53,71.12,93.72,31.59,21.4,74.96,0,15.37
+Adani Total Gas Ltd.,ATGL.NS,Utilities:Non-Electrical,77261.66,75,10.33,45.69,Expensive Performer,51.62,0.25,2.35,125.12,259.61,14.98,22.12,6591.86,18.64,19.43,22.38,20.7,22.83,74.8,0.04,110.05
+Adani Wilmar Ltd.,AWL.NS,Edible Oils,41589.72,65,46,48.92,Mid-range Performer,55.27,0,-11.79,-132.31,54.18,1.8,2.07,19806.53,1.77,6.48,11.89,11.33,15.65,87.87,0,42.36
+Aditya Birla Capital Ltd.,ABCAPITAL.NS,Holding Companies,46656.47,30,52.17,33.02,Value Trap,37.31,1.52,14.43,-176.49,61.57,9.62,34.47,232101.83,12.43,15.68,12.51,7.61,7.06,68.9,0,12.47
+Aditya Birla Fashion and Retail Ltd.,ABFRL.NS,Department Stores,28505.27,30,22.83,35.31,Momentum Trap,39.89,0.62,13.56,-238.66,-1054.62,-4.47,0.24,22411.06,-15.56,-6.85,-12.25,0.25,2.39,49.25,0,-43.53
+Aditya Birla Real Estate Ltd.,ABREL.NS,Paper & Paper Products,24852.29,60,12.17,45.35,Expensive Performer,51.24,0.59,-5.33,432.71,10995.13,1.86,11.25,10510.16,1.26,4.24,4.47,7.24,6.31,50.21,0.22,254.92
+Aditya Birla Sun Life AMC Ltd.,ABSLAMC.NS,Asset Management Cos.,23022.32,60,35,49.9,Mid-range Performer,56.38,0,21.19,5.49,-44.69,59.02,74.91,3501.85,24.62,26.31,29.47,30.73,33.44,74.9,1.69,25.7
+Aegis Logistics Ltd.,AEGISLOG.NS,Oil Marketing & Distribution,33345,80,23.83,64.04,Expensive Star,72.35,0.37,-17.91,199.79,168.7,8.27,13.86,8072.86,14.61,14.7,12.33,13.89,14.42,58.1,0.55,57.11
+Affle (India) Ltd.,AFFLE.NS,Internet Software & Services,23644.16,55,17.5,59.25,Expensive Performer,66.94,0.03,27.67,468.18,2424.85,16.59,18.75,3283.04,11.9,15.58,22.58,13.09,16.47,55.03,0,68.96
+Ajanta Pharma Ltd.,AJANTPHARM.NS,Pharmaceuticals,37098.27,70,25.83,64.47,Expensive Star,72.84,0,11.77,-200.6,-723.14,19.48,26.63,4638.39,22.87,20.68,20.37,29.95,26.05,66.26,1.82,42.4
+Akums Drugs & Pharmaceuticals Ltd.,AKUMS.NS,Pharmaceuticals,9883.56,50,36.83,22.02,Slowing Down Stock,24.88,0.11,13.81,59.82,,6.81,0.75,3516.36,-0.56,-9.31,-5.59,1.36,1.93,75.26,0,35.58
+Alembic Pharmaceuticals Ltd.,APLLTD.NS,Pharmaceuticals,21130.53,90,41.17,48.22,Mid-range Performer,54.48,0,10.64,44.73,64.75,10.17,11.06,6445.58,12.78,10.18,15.85,13.8,11.72,69.61,1.02,32.67
+Alkem Laboratories Ltd.,ALKEM.NS,Pharmaceuticals,66554.66,75,38,51.38,Mid-range Performer,58.05,0,9.84,-205.44,-3711.5,16.7,17.81,15574.9,17.41,15.78,17.42,19.49,18.4,55.66,0.72,31.36
+Alkyl Amines Chemicals Ltd.,ALKYLAMINE.NS,Specialty Chemicals,8951.1,65,24.5,34.62,Falling Comet,39.11,0,-14.18,13.19,-79.68,11.26,14.35,1583.62,11.74,18.01,26.28,15.25,23.26,71.96,0.57,53.21
+Alok Industries Ltd.,ALOKINDS.NS,Textiles,9995.03,,9.33,31.72,,35.84,-1.06,-20.98,33.47,116.53,-19.83,-4.58,7406.83,0,0,-2.13,-5.4,-3.98,75,0,-10.93
+Amara Raja Energy & Mobility Ltd.,ARE&M.NS,Auto Parts & Equipment,20278.3,65,57.83,31.32,"Value Stock, Under Radar",35.39,0,12.77,3.41,-92.54,7.78,10.97,8977.76,13.74,12.7,14.3,17.71,16.73,32.86,0.94,20.92
+Amber Enterprises India Ltd.,AMBER.NS,Consumer Electronics,26449.64,55,20.5,74.45,Expensive Rocket,84.11,0.32,-2.8,-191.32,-274.01,2.27,5.35,6593.2,6.43,6.98,8.01,10.9,10.51,39.79,0,142.35
+Ambuja Cements Ltd.,AMBUJACEM.NS,Cement & Cement Products,132762.36,80,39.5,31.7,Falling Comet,35.82,0,-13.48,2384.16,640.43,9.07,17.92,65297.81,8.62,0,0,11.17,0,67.57,0.37,44.54
+Anand Rathi Wealth Ltd.,ANANDRATHI.NS,Capital Markets,16562.19,55,16,47.23,Expensive Performer,53.36,0,34.68,-31.65,-185.39,31.15,43.08,879.74,34.67,35.83,25.19,44.38,44.83,47.99,0.4,62.79
+Anant Raj Ltd.,ANANTRAJ.NS,Realty,31985.59,80,14.33,73.31,Expensive Star,82.83,0.13,51.34,270.95,1366.57,19.06,23.81,4868.27,7.27,4.89,3.23,8.01,5.45,60,0.08,92.25
+Angel One Ltd.,ANGELONE.NS,Capital Markets,24006.71,40,38.5,47.93,Mid-range Performer,54.15,0,41.66,909.92,425.26,24.67,38.61,13253.73,37.05,39.22,31.56,52.95,55.01,35.61,0.48,18.24
+Apar Industries Ltd.,APARINDS.NS,Other Electrical Equipment/Products,43517.73,50,20.33,67.63,Expensive Rocket,76.41,0.09,12.86,83.73,82.7,4.97,9.24,9615.76,21.28,21.58,17.54,34.72,34.98,57.77,0.47,51.18
+Apollo Hospitals Enterprise Ltd.,APOLLOHOSP.NS,Healthcare Facilities,102662.28,75,20.5,56.66,Expensive Performer,64.02,0.32,14.74,71.9,17.87,5.78,9.49,16753.1,12.95,14.98,12.36,14.97,14.69,29.33,0.22,86.77
+Apollo Tyres Ltd.,APOLLOTYRE.NS,Auto Tyres & Rubber Products,30805.57,70,58.67,43.61,"Strong Performer, Under Radar",49.27,0.19,3.75,69.78,-72.6,5.66,12.3,26957.35,12.38,8.79,6.85,15.68,10.81,37.36,1.24,21.24
+Aptus Value Housing Finance India Ltd.,APTUS.NS,Housing Finance ,14544.59,40,36.67,34.4,Slowing Down Stock,38.87,0,25.5,-110.66,-80.54,43.79,86.5,9004.61,16.23,14.66,13.96,31.23,25.57,53.91,2.23,21.54
+Archean Chemical Industries Ltd.,ACI.NS,Commodity Chemicals,8020.33,45,33.17,35.63,Mid-range Performer,40.26,0.03,-7.47,39.51,,19.11,32.75,2055.86,18.74,39.5,23.7,22.67,30.51,53.44,0.31,36.5
+Asahi India Glass Ltd.,ASAHIINDIA.NS,Auto Parts & Equipment,16797.51,45,27.5,49.97,Expensive Performer,56.46,0.54,8.2,59.17,16.22,7,13.14,5499.61,13.93,17.02,14.42,14.98,19.99,54.23,0.29,54.05
+Ashok Leyland Ltd.,ASHOKLEY.NS,Commercial Vehicles,65058.76,50,38.67,49.66,Mid-range Performer,56.11,2.96,9.93,3308.99,556.06,5.65,15.62,67660.46,27.58,12.39,7.88,17.46,12.91,51.52,3.14,24.75
+Asian Paints Ltd.,ASIANPAINT.NS,Paints,224634.53,50,21,37.43,Expensive Performer,42.29,0,3.75,603.47,-75.72,13.12,20.9,29924.09,29.15,25.59,25.59,34.63,31.76,52.63,1.38,49.16
+Aster DM Healthcare Ltd.,ASTERDM.NS,Healthcare Facilities,26054.6,80,56.83,69.71,Strong Performer,78.76,0.1,-69,325.99,165.7,79.69,10.34,17991.31,2.83,8.85,8.1,5.71,8.03,41.88,23.01,4.83
+AstraZeneca Pharma India Ltd.,ASTRAZEN.NS,Pharmaceuticals,17367.5,60,5.17,57.25,Expensive Performer,64.68,0,29.27,5.23,-98.05,5.52,15.77,1078.03,22.68,17.19,18.37,28.34,24.49,75,0.35,212
+Astral Ltd.,ASTRAL.NS,Plastic Products,41692.11,70,15.33,30.63,Falling Comet,34.61,0.01,9.61,79.9,40.67,9.14,13.52,4497.9,17.13,18.23,18.5,22.59,23.79,54.1,0.24,79.34
+Atul Ltd.,ATUL.NS,Specialty Chemicals,20264.64,55,31.67,42.38,Mid-range Performer,47.88,0.04,-13.69,21.81,12.6,7.46,9.56,6476.28,6.31,10.32,13.84,8.08,13.11,45.17,0.29,53.6
+Au Small Finance Bank Ltd.,AUBANK.NS,Banks,42194.28,50,51.33,40.19,Mid-range Performer,45.41,0.44,33.13,-3048.84,-315.98,13.74,0,109425.67,12.21,13.41,14.86,7.45,6.98,22.9,0.18,23.19
+Aurobindo Pharma Ltd.,AUROPHARMA.NS,Pharmaceuticals,74174.17,75,56.67,51.26,"Strong Performer, Under Radar",57.91,0.07,17.55,-1021.01,-139.84,11.82,16.82,45071.51,10.63,9.53,13.95,14.84,12.82,51.82,0.12,20.71
+Avanti Feeds Ltd.,AVANTIFEED.NS,Other Food Products,8687.02,70,52.5,51.21,"Strong Performer, Under Radar",57.86,0.01,6.3,-21.12,-167.79,7.75,10.01,3098.19,15.09,13.36,0,19.57,18.22,43.23,1.06,20.76
+Avenue Supermarts Ltd.,DMART.NS,Department Stores,250760,65,15.67,45.43,Expensive Performer,51.33,0,18.54,129.97,51.76,4.9,6.92,21177.2,13.56,13.09,12,18.33,17.32,74.65,0,93.31
+Axis Bank Ltd.,AXISBANK.NS,Banks,334164.11,60,59,33.02,"Value Stock, Under Radar",37.31,1.45,29.99,7698.42,122.46,22.92,,1518238.53,16.8,12.35,9.23,6.93,5.79,8.29,0.09,11.97
+BASF India Ltd.,BASF.NS,Specialty Chemicals,22506.35,85,44.5,46.01,Mid-range Performer,51.98,0,1.18,255.27,248.92,4.36,5.62,7232.96,17.47,19.28,18.02,22.73,24.2,73.33,0.29,34.62
+BEML Ltd.,BEML.NS,Commercial Vehicles,15491.34,90,31.83,41.73,Mid-range Performer,47.15,0,4.44,260.23,149.45,7.04,10.37,5445.35,10.56,7.51,5.7,11.82,9.54,54.03,0.55,54.25
+BLS International Services Ltd.,BLS.NS,Travel Support Services,19887.09,75,23.17,60.26,Expensive Star,68.08,0,11.66,347.18,2540.25,22.3,21.15,1616.4,25.91,23.48,18.71,24.09,23.45,70.38,0.21,47.61
+BSE Ltd.,BSE.NS,Exchange,73108.67,70,15.33,70.27,Expensive Star,79.39,0,69.6,1621.53,618.87,33.69,33.41,9450.23,23.57,13.77,10.43,12.03,9.32,0,0.28,88.4
+Bajaj Auto Ltd.,BAJAJ-AUTO.NS,2/3 Wheelers,243511.23,45,29.83,43.21,Expensive Performer,48.82,0.02,23.02,47.07,-79.71,15.07,21.91,39343.69,26.61,22.63,21.95,32.5,25.9,55.04,0.92,33.04
+Bajaj Finance Ltd.,BAJFINANCE.NS,Finance (including NBFCs),454247.34,40,28.5,57.41,Expensive Performer,64.86,2.37,32.79,2483.76,380.74,24.69,69.17,375741.62,18.84,18.69,16.86,14.65,13.93,54.7,0.49,29.54
+Bajaj Finserv Ltd.,BAJAJFINSV.NS,Holding Companies,270953.56,30,36.5,54.48,Await Turnaround,61.55,2.92,34.5,3074.82,20.56,6.73,36.02,537929.63,13.5,12.88,12.37,13.93,13.14,60.64,0.06,31.87
+Bajaj Holdings & Investment Ltd.,BAJAJHLDNG.NS,Holding Companies,125205.19,70,48.33,57.76,Mid-range Performer,65.26,0,224.92,13.95,119.14,427.5,93.36,65161.08,13.39,11.27,10.88,2.36,1.21,51.46,0.76,16.9
+Balaji Amines Ltd.,BALAMINES.NS,Specialty Chemicals,5637.94,70,42,32.28,Falling Comet,36.47,0.01,-29.51,-15.16,-239.94,13.19,18.76,2146.15,11.89,20.77,20.97,15.41,29.4,53.7,0.63,27.95
+Balkrishna Industries Ltd.,BALKRISIND.NS,Auto Tyres & Rubber Products,53336.22,80,39.33,32.55,Falling Comet,36.78,0.08,-2.85,5.22,-30.86,16.14,21.92,13684.54,16.61,17.1,18.02,20.48,20.89,58.29,0.58,32.74
+Balrampur Chini Mills Ltd.,BALRAMCHIN.NS,Sugar,10085.02,70,43.67,46.48,Mid-range Performer,52.51,0.1,22.1,0.01,100.89,8.02,14.29,6085.96,15.71,14.1,16.42,20.16,17.87,42.9,0.6,23.34
+Bandhan Bank Ltd.,BANDHANBNK.NS,Banks,24406.22,55,79,31.11,Falling Comet,35.15,0.76,14.48,7920.87,466.71,13.35,,177841.66,10.31,7.41,10.96,8.77,9.21,39.98,0.99,8.75
+Bank of Baroda,BANKBARODA.NS,Banks,119768.75,50,65.33,33.91,Falling Comet,38.31,0.85,27.98,-2083.54,11.11,16.11,,1654779.38,15.67,12.8,8.29,6.82,5.76,63.97,3.28,5.99
+Bank of India,BANKINDIA.NS,Banks,45526.68,45,73.33,31.43,Falling Comet,35.51,1.27,22.06,-1560.32,-103.89,11.83,,924280.35,10.3,8.17,4.35,5.83,5.24,73.38,2.8,5.83
+Bank of Maharashtra,MAHABANK.NS,Banks,38542.38,75,78.83,28.48,"Value Stock, Under Radar",32.18,0.42,29.23,11782.75,372.3,21.73,,307329.02,22.09,16.5,11.75,6.26,5.67,79.6,2.79,7.87
+Bata India Ltd.,BATAINDIA.NS,Footwear,18263.76,70,23.17,53.03,Expensive Performer,59.91,0,1.43,-24.48,-162.33,9.98,14.61,3349.76,17.19,15.1,11.52,19.45,16.66,50.16,1.55,52.53
+Bayer Cropscience Ltd.,BAYERCROP.NS,Agrochemicals,24697.26,65,27.33,33.92,Falling Comet,38.32,0,-0.37,295.7,114.9,11.33,18.83,4597.1,25.98,26.5,23.45,32.03,31.03,71.43,2.27,42.61
+Berger Paints (India) Ltd.,BERGEPAINT.NS,Paints,53855.66,85,25.67,41.68,Expensive Performer,47.09,0,6.06,124.12,116.61,10.16,14.23,8368.66,21.7,20.67,21.61,26.54,26.29,74.99,0.76,47.03
+Bharat Dynamics Ltd.,BDL.NS,Defence,43144.41,70,14.17,35.87,Expensive Performer,40.53,0,3.26,-459.04,-384.08,25.26,35.08,10340.05,16.84,14.76,14.88,11.33,12.53,74.93,0.45,77.94
+Bharat Electronics Ltd.,BEL.NS,Defence,205587.53,85,24.33,43.67,Expensive Performer,49.34,0,16.23,-2739.37,-292.61,21.04,26.01,39526.68,24.4,21.82,20.5,30.13,26.21,51.14,0.78,45.28
+Bharat Forge Ltd.,BHARATFORG.NS,Other Industrial Products,59665.46,80,25.67,31.34,Falling Comet,35.41,0.26,21.6,794.96,811.05,5.98,12.35,19349.12,13.26,12.53,8.39,19.23,15.58,44.07,0.72,63.01
+Bharat Heavy Electricals Ltd.,BHEL.NS,Heavy Electrical Equipment,77945.99,60,22.67,30.1,Falling Comet,34.01,0,2.45,273.7,121.98,0.91,3.8,59005.5,1.15,1.53,-2.18,2.7,2.51,63.17,0.11,330.84
+Bharat Petroleum Corporation Ltd.,BPCL.NS,Refineries/Petro-Products,124515.11,60,73.17,32.4,"Value Stock, Under Radar",36.61,0.36,-5.13,-11.98,-100.17,2.93,8.82,202417.75,35.51,20.66,20.11,32.53,17.71,52.98,3.66,9.5
+Bharti Airtel Ltd.,BHARTIARTL.NS,Telecom Services,927098.64,55,30.5,48.21,Mid-range Performer,54.47,1.3,8.09,915.8,125.48,7.89,26.79,444531,7.39,7.66,-8.86,13.13,11.38,53.14,0.5,75.58
+Bharti Hexacom Ltd.,BHARTIHEXA.NS,Other Telecom Services,73200,65,20.17,46.87,Expensive Performer,52.95,0.6,9.2,-12.6,-141.31,15.63,26.38,18517.4,10.87,23.22,-14.47,17.05,10.93,70,0.27,61.02
+Bikaji Foods International Ltd.,BIKAJI.NS,Packaged Foods,18068.83,75,20.83,42.93,Expensive Performer,48.5,0.02,18.98,-8.08,66.85,11.48,15.39,1533.5,21.8,14.92,14.06,27.24,18.92,74.98,0.14,62.18
+Biocon Ltd.,BIOCON.NS,Biotechnology,44566.27,65,59.5,63.2,Strong Performer,71.4,0.65,35.25,-383.3,-487.17,9.66,17.58,56070.7,5.16,5.14,7.28,6.37,6.23,60.64,0.13,30.97
+Birla Corporation Ltd.,BIRLACORPN.NS,Cement & Cement Products,9384.25,80,69.33,32.05,"Value Stock, Under Radar",36.21,0.55,10.83,-49.74,-210.41,3.4,9.77,14436.17,7.32,5.27,7.56,7.92,6.01,62.9,0.82,30.28
+Birlasoft Ltd.,BSOFT.NS,IT Consulting & Software,15051.23,75,50,32.44,Falling Comet,36.65,0,11.71,-76.5,-562.85,11.46,16.19,3925.65,20.49,17.32,15.71,26.87,22.66,40.86,1.19,24.32
+Blue Dart Express Ltd.,BLUEDART.NS,Transportation - Logistics,15698.38,55,27.17,29.67,Expensive Underperformer,33.52,0,2.2,70.86,606.14,5.15,8.93,3460.9,22.01,32.42,21.18,23.89,30.67,75,0.38,55.49
+Blue Star Ltd.,BLUESTARCO.NS,Consumer Electronics,42767.88,60,15.5,59.03,Expensive Performer,66.69,0,21.54,129.43,218.24,4.9,6.34,6618.25,15.89,20.82,18.42,22.44,23.88,36.46,0.34,81.44
+Bombay Burmah Trading Corporation Ltd.,BBTC.NS,Packaged Foods,14572.21,85,76.83,39.1,"Strong Performer, Under Radar",44.18,0.2,2.51,176.92,-59.34,6.78,18.61,11961.8,14.63,-8.59,-1.46,41.37,31.04,74.05,0.06,12.21
+Bosch Ltd.,BOSCHLTD.NS,Auto Parts & Equipment,97387.87,65,21.33,45.14,Expensive Performer,51,0,13.29,84.1,149.55,12.16,14.27,17348.5,20.66,15,11.39,19.48,16.71,70.54,1.14,46.7
+Brigade Enterprises Ltd.,BRIGADE.NS,Realty,29580.16,65,25,49.39,Expensive Performer,55.8,1.39,42.12,195.14,131.68,9.6,21.64,17886.22,12.87,8.32,5.75,11.97,9.01,41.37,0.17,61.33
+Britannia Industries Ltd.,BRITANNIA.NS,Packaged Foods,117075.24,70,16,41.82,Expensive Performer,47.25,0.23,2.83,218,217.6,12.36,18.38,9073.56,54.28,59.86,52.79,61.8,60.68,50.55,1.51,54.92
+C.E. Info Systems Ltd.,MAPMYINDIA.NS,Internet Software & Services,9025.54,50,12.33,38.9,Expensive Performer,43.95,0,32.24,-2.68,-114.44,33.37,47.32,791.94,20.32,19.87,19.86,26.69,26.01,51.67,0.21,66.93
+CCL Products India Ltd.,CCL.NS,Tea & Coffee,9186.05,50,28.83,47.94,Expensive Performer,54.16,0.31,28.23,100.26,22.53,9.44,13.33,3535.91,14.94,16.47,16.81,15.67,18.07,46.09,0.65,33.53
+CESC Ltd.,CESC.NS,Electric Utilities,23064.92,60,60.83,44.78,"Strong Performer, Under Radar",50.59,1.14,6.8,146.18,134.57,8.72,7.58,37167.78,12.02,12.46,12.88,3.83,5.82,52.11,2.59,16.33
+CG Power and Industrial Solutions Ltd.,CGPOWER.NS,Heavy Electrical Equipment,106172.17,65,11.17,45.85,Expensive Performer,51.8,0,15.79,-511.51,-270.86,16.38,14.16,5625.74,47.29,63.98,-267.44,37.02,44.28,58.07,0.19,73.57
+CIE Automotive India Ltd.,CIEINDIA.NS,Auto Parts & Equipment,17486.71,85,64,31.14,"Value Stock, Under Radar",35.18,0.02,6.25,46.49,-35.34,8.92,12.75,9761.91,18.79,7.89,0,17.77,14.85,65.7,1.08,21.55
+Campus Activewear Ltd.,CAMPUS.NS,Footwear,8948.17,60,17,51.98,Expensive Performer,58.73,0.03,-2.3,-2.49,81.8,6.45,9.88,1096.58,13.72,20.1,15.08,17.46,25.38,73.86,0,91.95
+Can Fin Homes Ltd.,CANFINHOME.NS,Housing Finance ,9392.69,65,55.33,32.84,"Value Stock, Under Radar",37.1,1.82,28.49,-1.12,99.7,22.04,90.51,36601.55,17.28,16.56,16.93,25.85,22.68,29.99,1.42,11.45
+Canara Bank,CANBK.NS,Banks,88121.38,60,83.5,33.26,"Value Stock, Under Radar",37.58,0.69,25.14,9464.03,-83.79,13.66,,1535017.64,18.4,14.77,8.79,6.96,6.21,62.93,3.31,5.51
+Caplin Point Laboratories Ltd.,CAPLIPOINT.NS,Pharmaceuticals,19778.24,60,24.67,65.96,Expensive Star,74.52,0,15.65,-39.72,-116.8,26.96,33.34,2698.12,20.39,20.83,21.51,23.86,24.21,70.56,0.19,40.07
+Capri Global Capital Ltd.,CGCL.NS,Finance (including NBFCs),15520.42,40,28.17,29.87,Expensive Underperformer,33.75,0,57.97,-836.86,-873.07,11.87,51.95,15149.7,7.28,7.89,8.89,30.87,25.32,69.87,0.08,48.01
+Carborundum Universal Ltd.,CARBORUNIV.NS,Other Industrial Products,23552.6,85,24.83,28.28,Falling Comet,31.95,0.01,1.01,201.04,74.68,9.95,13.28,4151.9,14.75,14.51,14.3,17.98,17.69,41.04,0.32,49.59
+Castrol India Ltd.,CASTROLIND.NS,Oil Marketing & Distribution,19876.41,60,38.5,40.34,Mid-range Performer,45.58,0,6.53,-62.1,-148.7,17.02,23.42,3419.93,40.72,43.34,46.35,53.91,57.31,51,3.98,22.14
+Ceat Ltd.,CEATLTD.NS,Auto Tyres & Rubber Products,12503.33,80,58.67,58.8,"Strong Performer, Under Radar",66.43,0.24,5.57,-5.46,-162.83,4.55,9.73,9994.5,15.89,7.82,8.89,20.54,11.75,47.21,0.97,22.09
+Cello World Ltd.,CELLO.NS,Houseware,15968.88,50,19.33,32.26,Expensive Underperformer,36.45,0.02,11.68,1.56,-79.36,16.64,23.89,1971.78,28.8,113.55,39.8,33.7,57.75,75,0.21,47.26
+Central Bank of India,CENTRALBK.NS,Banks,45731.19,50,62,31.41,Falling Comet,35.49,0.71,19.57,-6494.14,-327.93,10.43,,447771.57,9.42,6.83,1.63,5.77,5.31,93.08,0,13.37
+Central Depository Services (India) Ltd.,CDSL.NS,Other Financial Services,35923.96,70,15,64.96,Expensive Star,73.39,0,46.12,-31.88,-183.52,51.49,68.59,1781.65,28.64,26.61,23.47,36.14,33.61,15,0.64,67.41
+Century Plyboards (India) Ltd.,CENTURYPLY.NS,Forest Products,18370.37,50,17.83,62.51,Expensive Rocket,70.62,0.07,6.38,26.56,498.87,5.18,12.09,3552.57,14.75,18.29,16.75,19.04,25.33,72.59,0.12,84.66
+Cera Sanitaryware Ltd.,CERA.NS,Household Appliances,9309.42,75,27.5,30.26,Falling Comet,34.19,0,5.43,9.71,41.96,12.8,17.35,1845.53,17.75,16.83,15.35,22.26,21.66,54.41,0.83,38.65
+Chalet Hotels Ltd.,CHALET.NS,Hotels,20510.37,50,14.67,58.63,Expensive Performer,66.24,0.92,21.99,-53.21,-123.21,4.92,32.88,5749.55,15.48,7.17,3.66,12.14,7.39,67.48,0,272.62
+Chambal Fertilisers & Chemicals Ltd.,CHAMBLFERT.NS,Fertilizers,20030.61,80,71.5,47.62,"Strong Performer, Under Radar",53.8,0.15,-34.81,72.86,-90.16,9.47,11.01,11508.97,17.54,18.88,24.56,20.89,19.91,60.4,1.6,13
+Chemplast Sanmar Ltd.,CHEMPLASTS.NS,Specialty Chemicals,7789.27,30,15.83,36.37,Momentum Trap,41.09,7.09,-20.27,-386.54,-282.92,-3.14,-1.14,6030.3,-101.87,287.64,168.27,-1.27,14.46,54.99,0,-60.9
+Chennai Petroleum Corporation Ltd.,CHENNPETRO.NS,Refineries/Petro-Products,9158.05,60,74.5,33.43,"Value Stock, Under Radar",37.77,0.09,-13.48,-1.06,-196.36,1.11,5.84,18331.27,31.11,43.64,-0.88,35.2,42.07,67.29,8.94,12.78
+Cholamandalam Financial Holdings Ltd.,CHOLAHLDNG.NS,Holding Companies,29199.4,45,58.5,51.63,Mid-range Performer,58.33,0,41.96,-82.22,95.86,6.94,55.99,176917.67,17.3,16.67,15.46,50.28,37,47.32,0.04,14.22
+Cholamandalam Investment & Finance Company Ltd.,CHOLAFIN.NS,Finance (including NBFCs),107628.17,35,33.17,42.26,Await Turnaround,47.75,1.53,48.18,-66.21,96.51,17.12,72.29,156686.41,17.45,18.1,16.6,27.76,25.56,50.24,0.16,27.94
+Cipla Ltd.,CIPLA.NS,Pharmaceuticals,120342.56,85,42.83,51.49,Mid-range Performer,58.17,0,14.17,-54.55,-243.1,16.88,23.22,32717.82,15.43,13.15,12.48,21.79,18.87,30.92,0.87,26.89
+City Union Bank Ltd.,CUB.NS,Banks,12521.92,65,63.33,50.49,"Strong Performer, Under Radar",57.04,0.56,8.82,294.25,-67.06,19.15,,70825.87,12.08,12.06,11.06,6.78,6.63,0,0.89,11.84
+Clean Science & Technology Ltd.,CLEAN.NS,Specialty Chemicals,15031.9,35,14.83,43.27,Momentum Trap,48.89,0,-13.76,-1.97,-1196.11,29.12,41.36,1396.28,20.28,26.41,31.36,26.48,34.43,74.97,0.35,58.36
+Coal India Ltd.,COALINDIA.NS,Coal,235138.9,80,71.33,40.21,"Strong Performer, Under Radar",45.43,0.07,3.79,-281.97,-111.54,25.63,34.57,237672.26,45.21,44.88,44.28,27.89,24.9,63.13,6.81,6.52
+Cochin Shipyard Ltd.,COCHINSHIP.NS,Marine Port & Services,39259.55,75,25.17,28.32,Falling Comet,32,0,61.02,-61.56,55.43,20.35,28.82,12042.23,15.65,11.79,13.48,19.98,14.82,72.86,0.65,45.31
+Coforge Ltd.,COFORGE.NS,IT Consulting & Software,63953.02,65,16,64.92,Expensive Star,73.35,0.09,14.41,-231.4,-783.21,7.85,12.75,6107.7,22.27,22.99,21.19,25.57,25.86,0,0.79,80.26
+Colgate-Palmolive (India) Ltd.,COLPAL.NS,Personal Products,76127.41,85,16,42.58,Expensive Performer,48.11,0,9.04,82.94,181.92,24.48,31.79,3196.53,70.61,64.59,66.76,92.26,83.1,51,2.14,51.82
+Computer Age Management Services Ltd.,CAMS.NS,Data Processing Services,23236.48,65,17.33,51.87,Expensive Performer,58.6,0,17.88,-9.65,-66.6,32.66,41.79,1414.21,38.66,39.81,38.11,42.86,44.78,0,1.37,54.87
+Concord Biotech Ltd.,CONCORDBIO.NS,Biotechnology,23664.18,70,11.67,59.08,Expensive Performer,66.75,0,18.26,11.64,,30.2,40.48,1700.71,20.18,18.21,10.93,26.41,24.08,44.08,0.39,72.16
+Container Corporation of India Ltd.,CONCOR.NS,Warehousing and Logistics,46291.13,70,35.17,30.47,Falling Comet,34.43,0,6.38,-150.27,-124.79,14.24,19.75,14038.04,10.66,10.31,7.98,13.36,12.99,54.8,1.55,36.41
+Coromandel International Ltd.,COROMANDEL.NS,Fertilizers,57009.36,30,30.83,66.89,Momentum Trap,75.57,0,-25.2,-269.8,-142.84,6.34,10.88,15851.5,17.43,22.3,23.47,24.04,29.98,57.17,0.31,41.73
+Craftsman Automation Ltd.,CRAFTSMAN.NS,Auto Parts & Equipment,12535.88,60,32.33,50.98,Mid-range Performer,57.6,0.68,39.87,35.61,224.82,5.44,13.89,4705.74,18.36,16.91,13.26,19.47,20.56,48.7,0.21,50.08
+CreditAccess Grameen Ltd.,CREDITACC.NS,Finance (including NBFCs),16240.31,40,50,44.06,Mid-range Performer,49.78,0,45.68,-234.12,-113.65,23.34,71.06,28846.16,22,15.76,12.62,55.27,42.07,66.54,0.98,12.17
+Crisil Ltd.,CRISIL.NS,Other Financial Services,42469.77,80,15.17,64.03,Expensive Star,72.34,0,11.83,45.92,152.49,20.51,27.75,3314.52,30.08,30.37,29.5,37.75,37.19,66.64,1,63.44
+Crompton Greaves Consumer Electricals Ltd.,CROMPTON.NS,Household Appliances,23786.53,80,31.17,35.59,Mid-range Performer,40.21,0.1,6.4,95.22,-60.06,6.52,8.91,6081.7,14.66,18.55,24.27,16.23,19.31,0,0.81,47.48
+Cummins India Ltd.,CUMMINSIND.NS,Industrial Machinery,87708.85,75,22.17,34.45,Falling Comet,38.92,0,16.06,-117.14,-69.69,20.12,22.09,8970.51,26.02,21.83,19.03,28.76,23.58,51,1.2,45.02
+Cyient Ltd.,CYIENT.NS,IT Consulting & Software,20120.01,65,38.67,45.45,Mid-range Performer,51.35,0.07,18.3,-72.8,-114.49,9.15,15.41,7003.6,16.03,15.87,14.66,20.61,19.94,23.15,1.65,30.51
+DLF Ltd.,DLF.NS,Realty,198916.05,75,25.33,37.83,Expensive Performer,42.74,0.06,15.74,1186.75,308.33,51.53,39,60262.4,6.91,5.48,3.57,5.43,4.88,74.08,0.62,55.19
+DOMS Industries Ltd.,DOMS.NS,Commodity Printing/Stationery,16749.36,70,14,61.77,Expensive Star,69.79,0.1,27.19,22.19,3.75,11.06,15.06,1189.99,18.8,17.66,9.83,23.54,23.93,74.96,0.09,90.2
+Dabur India Ltd.,DABUR.NS,Personal Products,91096.99,60,21,39.18,Expensive Performer,44.27,0.05,7.61,-119.45,-225.1,14.31,20.02,15122.68,18.67,19.48,20.48,22.18,23.92,66.25,1.07,51.15
+Dalmia Bharat Ltd.,DALBHARAT.NS,Cement & Cement Products,33664.79,65,46.5,35.85,Mid-range Performer,40.5,0.27,9.71,107,332.61,5.23,9.91,27749,5.03,6.31,6.16,6.25,6.13,55.84,0.5,44.01
+Data Patterns (India) Ltd.,DATAPATTNS.NS,Defence,12932.58,70,15.33,30.13,Falling Comet,34.04,0,22.3,-127.04,-1842.66,35.82,48.38,1691.77,13.72,13.56,16.22,18.74,18.28,42.41,0.28,69.85
+Deepak Fertilisers & Petrochemicals Corporation Ltd.,DEEPAKFERT.NS,Commodity Chemicals,14668.83,75,51.5,53.55,"Strong Performer, Under Radar",60.5,0.57,-22.71,-53.31,-607.23,7.56,12.39,11830.29,8.18,16.51,13.67,12.25,17.85,45.63,0.73,21.64
+Deepak Nitrite Ltd.,DEEPAKNTR.NS,Commodity Chemicals,33468.11,70,30,41.62,Expensive Performer,47.02,0.05,-3.26,199.75,2859.26,10.23,13.45,6096.22,16.9,23.23,28.32,19.46,28.77,49.24,0.31,39.25
+Delhivery Ltd.,DELHIVERY.NS,Transportation - Logistics,24965.79,65,22,32.14,Falling Comet,36.31,0,14.13,7.23,-96.32,0.09,-1.74,11453.02,-2.72,-10.22,-10.82,-1.4,-8.33,0,0,3200.34
+Devyani International Ltd.,DEVYANI.NS,Restaurants,23160.31,40,12.5,62.47,Expensive Rocket,70.58,0.69,18.44,-69.13,-401.31,0.74,8.27,4932.45,4.48,18.2,1.22,7.31,12.83,62.72,0,717.57
+Divi's Laboratories Ltd.,DIVISLAB.NS,Pharmaceuticals,155609.73,60,13.83,57.69,Expensive Performer,65.18,0,0.89,193,-90.29,21.31,27.6,15470,11.78,17.1,18.29,15.26,21.09,51.89,0.51,84.75
+Dixon Technologies (India) Ltd.,DIXON.NS,Consumer Electronics,101526.94,65,15.5,63.47,Expensive Star,71.71,0.07,45.22,-16.56,47.95,2.59,3.15,6991.45,21.69,20.21,20.91,24.7,22.44,32.89,0.03,141.97
+Dr. Lal Pathlabs Ltd.,LALPATHLAB.NS,Healthcare Services,25155.72,80,19.5,48.45,Expensive Performer,54.74,0,11.52,97.2,104.3,17.11,24.01,2455.96,19.34,18.84,20.36,26.86,24.67,53.92,1,62.67
+Dr. Reddy's Laboratories Ltd.,DRREDDY.NS,Pharmaceuticals,115150.51,50,49.33,55.17,Mid-range Performer,62.33,0.01,12.36,138.7,-89.12,17.75,26.26,38863.8,19.74,16.81,14.9,25.13,22.17,26.64,0.58,21.57
+EID Parry (India) Ltd.,EIDPARRY.NS,Other Food Products,15361.24,50,63.5,58.47,Mid-range Performer,66.06,0.03,-15.78,-265.1,-143.25,2.5,8.49,21493,12.74,15.11,13.68,20.54,24.74,42.22,0,20.89
+EIH Ltd.,EIHOTEL.NS,Hotels,26090.19,85,32.17,47.31,Mid-range Performer,53.45,0,25.26,3.27,114.51,25.57,36.24,5048.42,16.22,7.44,3.03,20.2,10.79,32.85,0.29,39.28
+Easy Trip Planners Ltd.,EASEMYTRIP.NS,Travel Support Services,5461.43,60,20.5,29.82,Falling Comet,33.69,0.01,31.21,136.61,612.98,14.19,37.42,893.61,17.05,32.74,33.66,34.06,48.28,50.38,0,61.88
+Eicher Motors Ltd.,EICHERMOT.NS,2/3 Wheelers,142170.8,65,30,65.34,Expensive Star,73.82,0.01,17.12,27.38,-46.22,24.97,29.05,23127.93,22.17,18.3,16.99,24.6,20.98,49.1,0.98,33.31
+Elecon Engineering Company Ltd.,ELECON.NS,Industrial Machinery,13691.76,90,28.67,51.98,Expensive Performer,58.73,0,27.86,27.34,44.93,18.32,24.13,2124,22.16,18.03,14.17,27.11,22.36,59.27,0.25,38.55
+Elgi Equipments Ltd.,ELGIEQUIP.NS,Industrial Machinery,18474.21,60,18.67,31.45,Falling Comet,35.53,0.01,5.3,104.72,27.23,9.76,14.43,2820.93,19.35,21.22,16.2,27.04,26.37,31.19,0.34,56.38
+Emami Ltd.,EMAMILTD.NS,Personal Products,25360.65,80,28.17,38.36,Expensive Performer,43.34,0,4.32,10.64,66.16,20.97,22.64,3279.7,29.57,32.58,28.03,32.14,31.37,54.84,1.38,32.82
+Emcure Pharmaceuticals Ltd.,EMCURE.NS,Pharmaceuticals,27279.13,55,28.33,34.74,Expensive Underperformer,39.25,0.26,11.33,220.52,,7.82,14.63,7806.16,16.87,23.82,14.29,21.2,28.24,78.08,0,48.09
+Endurance Technologies Ltd.,ENDURANCE.NS,Auto Parts & Equipment,29608.82,85,38.67,31.04,Falling Comet,35.07,0.1,16.69,216.96,293.42,7,9.17,7885.69,13.67,12.09,13.93,16.63,15.01,75,0.4,38.49
+Engineers India Ltd.,ENGINERSIN.NS,Consulting Services,10161.73,60,35.67,29.7,Falling Comet,33.56,0,0.16,187.18,332.19,12.4,14.66,4741.87,19.74,15.09,15.42,20.91,22.87,51.32,1.66,27.46
+Equitas Small Finance Bank Ltd.,EQUITASBNK.NS,Banks,7782.15,60,67.67,44.78,"Strong Performer, Under Radar",50.59,0.3,30.09,2263.59,167.18,7.56,,45303.87,13.38,10.37,10.26,8.62,8.61,0,1.46,17.36
+Eris Lifesciences Ltd.,ERIS.NS,Pharmaceuticals,17601.52,40,24,51.93,Expensive Performer,58.67,0.25,19.85,11.26,137.06,13.96,25.68,7048.84,15.15,17.94,19.84,11.42,15.44,54.87,0,50.51
+Escorts Kubota Ltd.,ESCORTS.NS,Commercial Vehicles,37635.69,75,40,37.77,Mid-range Performer,42.67,0,6.18,27.63,146.87,12.49,15.8,11266.91,11.43,9.63,12.27,14.88,13.03,68.04,0.54,32.64
+Exide Industries Ltd.,EXIDEIND.NS,Auto Parts & Equipment,34408,55,42.67,32.39,Slowing Down Stock,36.59,0.02,10.9,182.97,1322.78,4.91,8.03,18150.02,6.8,18.48,15.72,9.82,9.78,45.99,0.49,41.14
+FSN E-Commerce Ventures Ltd.,NYKAA.NS,Internet & Catalogue Retail,48345.76,70,5.67,42.48,Expensive Performer,47.99,0,24,34.4,295.19,0.6,2.37,3400.63,2.55,2.33,2.89,9.97,7.33,52.18,0,1129.67
+Federal Bank Ltd.,FEDERALBNK.NS,Banks,47988.73,60,70.83,47.51,"Strong Performer, Under Radar",53.68,0.84,32.27,1393.69,-80.25,15.79,,317838.95,12.89,12.47,11.63,6.49,5.88,0,0.61,11.62
+Fine Organic Industries Ltd.,FINEORG.NS,Specialty Chemicals,13732.61,70,32,34.18,Falling Comet,38.62,0,-28.91,185.34,247.68,20.15,25.89,2107.77,21.44,29.53,26.33,28.58,39.94,75,0.22,31.25
+Finolex Cables Ltd.,FINCABLES.NS,Other Electrical Equipment/Products,16761.38,60,45.17,28.52,Falling Comet,32.22,0,12.85,25.67,103.09,13.53,14.35,5635.16,13.17,13.32,13.3,13.58,12.34,35.86,0.73,23.98
+Finolex Industries Ltd.,FINPIPE.NS,Plastic Products,14444.7,70,57.33,25.54,"Value Stock, Under Radar",28.86,0,-0.46,-6.41,75.24,18.98,15.02,7057.85,8.4,13.42,16.1,10.89,13.95,52.47,1.07,18.02
+Firstsource Solutions Ltd.,FSL.NS,BPO/KPO,27510.23,60,24.67,70.76,Expensive Star,79.95,0,3.57,22.61,136.04,7.67,11.56,6083.04,13.91,15.62,14.41,16.5,16.81,53.66,0.89,51.35
+Five-Star Business Finance Ltd.,FIVESTAR.NS,Finance (including NBFCs),21253.73,45,38.17,44.08,Mid-range Performer,49.8,0,43.57,194.04,-80.15,38.1,72.58,11688.78,16.08,14.07,14.23,30.19,22.14,21.59,0,21.86
+Fortis Healthcare Ltd.,FORTIS.NS,Healthcare Facilities,54651.42,,20.5,72.58,,82,0.1,8.99,127.27,-38.65,8.97,13.97,13288.78,7.81,8.3,4.8,9.52,8.23,31.17,0.14,83.33
+G R Infraprojects Ltd.,GRINFRA.NS,Roads & Highways,13355,55,50.83,33.6,Falling Comet,37.96,0.43,-5.08,475.52,320.8,14.24,22.05,12941.56,17.43,19.31,21.42,17.98,18.22,74.71,0,11.66
+GAIL (India) Ltd.,GAIL.NS,Utilities:Non-Electrical,125189.9,70,79.5,32.04,"Value Stock, Under Radar",36.2,0.17,-8.68,854.91,3.03,8.48,8.73,124717.23,12.85,13.53,14.25,11.28,11.81,51.9,2.89,10.85
+GE Vernova T&D India Ltd.,GVT&D.NS,Industrial Machinery,51183.7,85,16.67,61.45,Expensive Star,69.43,0,13.65,87.33,9196.88,10.34,9.19,3584.39,14.56,3.28,-2.71,21.85,5.67,59.38,0.1,129.64
+GMR Airports Ltd.,GMRAIRPORT.NS,Construction & Engineering,81684.24,,12.83,31.97,,36.12,-15.86,26.31,-1441.77,-204.41,-8.99,22.3,48683.06,0,0,0,4.74,4.5,66.07,0,-94.93
+Garden Reach Shipbuilders & Engineers Ltd.,GRSE.NS,Defence,17675.37,65,23,30.51,Falling Comet,34.47,0,40.87,-8.72,98.79,9.38,13.7,10251.91,21.34,17.51,16.35,27.42,22.34,74.5,0.61,45.93
+General Insurance Corporation of India,GICRE.NS,General Insurance,78369.05,50,72,58.6,Mid-range Performer,66.21,0,-2.5,1009.14,-64.35,15.68,18.9,184452.24,12.09,11.88,8.22,10.03,9.72,82.4,2.24,10.77
+Gillette India Ltd.,GILLETTE.NS,Personal Products,31807.39,80,14.17,69.77,Expensive Star,78.83,0,6.4,19.99,130.13,16.45,21.68,1830.75,42.38,37.31,35.3,53.26,47.2,75,0.87,70.37
+Gland Pharma Ltd.,GLAND.NS,Pharmaceuticals,30479.89,50,33,53.2,Mid-range Performer,60.11,0.01,50.97,-1559.53,-588.29,11.74,20.45,10661.25,8.85,11.86,14.73,12.5,16.26,51.83,1.08,44.07
+GlaxoSmithKline Pharmaceuticals Ltd.,GLAXO.NS,Pharmaceuticals,37286.26,65,14.5,41.09,Expensive Performer,46.42,0,6.68,29.23,-90.27,18.96,27.84,3556.62,33.42,44.16,32.36,47.33,38.5,75,2,55.24
+Glenmark Pharmaceuticals Ltd.,GLENMARK.NS,Pharmaceuticals,45937.42,35,11.83,62.47,Momentum Trap,70.58,0,-4.91,389.32,2642.09,-7.15,12.3,14358.62,-19.13,-1.88,4.17,17.01,15.66,46.65,0.15,-52.49
+Global Health Ltd.,MEDANTA.NS,Healthcare Facilities,28992.67,75,21,34.15,Falling Comet,38.58,0.1,21.41,-342.64,-338.69,14.11,21.4,4304.08,16.45,14,9.38,19.01,15.69,33.04,0,59.4
+Go Digit General Insurance Ltd.,GODIGIT.NS,General Insurance,28034.68,40,25.83,21.81,Expensive Underperformer,24.64,0.13,46.38,76.74,-10.38,3.22,2.56,16958.46,6.73,-2.26,-3.39,7.19,-1.6,73.28,0,97.91
+Godawari Power & Ispat Ltd.,GPIL.NS,Iron & Steel/Interm.Products,13724.33,85,62.83,45.5,"Strong Performer, Under Radar",51.41,0,-5.19,-387.82,-6127.74,16.39,23.54,5545.24,20.8,28.46,25.86,26.76,34.04,63.49,0.62,15.36
+Godfrey Phillips India Ltd.,GODFRYPHLP.NS,Cigarettes-Tobacco Products,25317.65,60,32.17,41.57,Mid-range Performer,46.97,0,24.21,-3.8,-2.61,18.94,21.73,5843.26,20.86,18.43,17.49,20.74,19.97,72.58,1.87,28.02
+Godrej Agrovet Ltd.,GODREJAGRO.NS,Other Agricultural Products,14190.81,85,41.17,51.98,Mid-range Performer,58.73,0.12,1.27,23.04,25700,4.27,5.52,5703.27,14.29,14.98,15.38,15.05,16.25,74.03,1.35,35.8
+Godrej Consumer Products Ltd.,GODREJCP.NS,Personal Products,117963.03,35,10.5,38.97,Momentum Trap,44.03,0,6.53,113.27,210.95,-2.64,21.08,18495.89,-4.44,7.78,12.1,23.02,19.45,63,1.73,-318.69
+Godrej Industries Ltd.,GODREJIND.NS,Diversified,35109.77,35,24.67,57.28,Momentum Trap,64.72,1.45,1.88,182.5,451.1,2.35,14.27,61548.2,0.74,7.37,7.21,8.72,9.3,67.69,0,86.75
+Godrej Properties Ltd.,GODREJPROP.NS,Realty,77404.16,45,21.83,35.12,Expensive Performer,39.68,0.27,42.62,485.62,82.63,38.7,37.03,35734.86,7.25,5.82,4.16,8.64,9.46,46.48,0,55.73
+Granules India Ltd.,GRANULES.NS,Pharmaceuticals,14789.69,70,40.83,65.51,"Strong Performer, Getting Expensive",74.01,0.02,-0.33,86.92,160.37,10.88,14.49,5520.98,12.56,15.58,18.04,18.99,21.09,38.87,0.25,30.36
+Graphite India Ltd.,GRAPHITE.NS,Other Industrial Goods,10695.84,65,51,45.37,"Strong Performer, Under Radar",51.26,0,-1.8,13.74,110.26,16.76,2.7,6795.52,14.4,9.53,5.78,1.38,7.68,65.34,2.01,22.95
+Grasim Industries Ltd.,GRASIM.NS,Cement & Cement Products,163025.96,35,42.5,41.01,Await Turnaround,46.33,0.97,9.08,75.65,102.99,3.27,17.9,412539.08,6.34,8.33,7.87,7.32,7.47,43.11,0.41,36.37
+Grindwell Norton Ltd.,GRINDWELL.NS,Other Industrial Products,20456.07,60,18.83,32.33,Falling Comet,36.53,0,6.07,11.39,70.81,13.64,19.23,2769.62,18.69,19.21,18.11,23.5,24.74,58.03,0.92,54.54
+Gujarat Ambuja Exports Ltd.,GAEL.NS,Other Agricultural Products,5604.96,65,60.83,31.03,"Value Stock, Under Radar",35.06,0,1.77,-94.6,-3496.96,6.95,9.45,3309.77,12.49,16.16,15.98,16.23,21.23,63.84,0.29,16.57
+Gujarat Fluorochemicals Ltd.,FLUOROCHEM.NS,Specialty Chemicals,42621.8,50,15.17,49.43,Expensive Performer,55.85,0.06,-25.09,7.46,248.41,9.14,17.01,9234.07,7.32,16.62,9.78,10.81,21.64,62.58,0.08,103.94
+Gujarat Gas Ltd.,GUJGASLTD.NS,Utilities:Non-Electrical,34557.18,55,42.5,49.35,Mid-range Performer,55.76,0,-6.31,241.28,188.45,7.8,9.61,11691.57,14.81,19.8,24.77,16.99,22.53,60.89,1.13,27.19
+Gujarat Mineral Development Corporation Ltd.,GMDCLTD.NS,Coal,9974.07,50,48.17,29.23,Slowing Down Stock,33.02,0,-29.83,-17.85,-110.47,23.32,33.19,7366.85,10.09,13.18,8.43,11.99,17.08,74,3.04,15.69
+Gujarat Narmada Valley Fertilizers & Chemicals Ltd.,GNFC.NS,Fertilizers,8228.68,50,54.5,31.63,Falling Comet,35.74,0,-20.68,-14.19,-114.95,5.53,8.36,10671.87,5.98,14.51,12.92,6.91,16.7,41.3,2.95,18.29
+Gujarat Pipavav Port Ltd.,GPPL.NS,Marine Port & Services,8320,70,43.67,31.8,Falling Comet,35.93,0,9.85,7.89,162.46,36.93,53.85,2936.5,14.78,12.37,12.2,20.75,16.75,44.01,4.47,22.67
+Gujarat State Fertilizer & Chemicals Ltd.,GSFC.NS,Fertilizers,8005.41,40,57.5,30.75,Falling Comet,34.74,0,-17.24,-565.6,-381.47,6.02,7.71,15050.69,4.43,7.52,5.81,5.13,9.2,37.84,1.99,15.15
+Gujarat State Petronet Ltd.,GSPL.NS,Utilities:Non-Electrical,19767.15,65,65.5,43.8,"Strong Performer, Under Radar",49.49,0,-4.21,113.87,140.88,8.65,16.8,19055.84,15.33,17.79,22.78,18.12,21.56,37.63,1.43,12.95
+HBL Engineering Ltd.,HBLENGINE.NS,Other Electrical Equipment/Products,16692.68,85,24.67,48.41,Expensive Performer,54.69,0.02,62.39,91.45,733.06,14.57,17.91,1654.1,23.01,14.74,9.87,31.8,19.32,59.11,0.08,50.92
+HCL Technologies Ltd.,HCLTECH.NS,IT Consulting & Software,522868.99,75,33.83,61.12,"Strong Performer, Getting Expensive",69.05,0.03,8.36,261,-90.32,14.78,19.57,99777,23,22.5,21.53,27.92,26.69,60.81,2.8,31.07
+HDFC Asset Management Company Ltd.,HDFCAMC.NS,Asset Management Cos.,86837.59,75,22.67,45.37,Expensive Performer,51.26,0,27.42,6.31,,72.93,96.12,7553.85,27.45,16.92,10.15,34.09,21.37,52.48,1.72,39.31
+HDFC Bank Ltd.,HDFCBANK.NS,Banks,1288091.05,35,49,48.89,Await Turnaround,55.24,1.6,99.35,20400.05,-39.06,21.49,,4030194.26,14.03,15.1,15.18,6.63,6.4,0,1.16,18.62
+HDFC Life Insurance Company Ltd.,HDFCLIFE.NS,Life Insurance,132634.18,45,33.83,47.92,Mid-range Performer,54.14,0.06,42.38,-3298.76,-329.9,1.53,1.01,302686.95,10.73,9.92,12.2,0.35,0.52,50.34,0.32,78.33
+HEG Ltd.,HEG.NS,Other Industrial Goods,9224.32,55,46.83,49.33,Mid-range Performer,55.73,0,-1.54,103.76,1007.87,8.09,14.59,5701.37,7.04,10.16,6.38,7.7,11.7,55.78,0.94,50.71
+HFCL Ltd.,HFCL.NS,Telecom Cables,15465.45,45,31.5,37.41,Mid-range Performer,42.27,0.04,-4.69,-39.58,-914.4,8.19,13.44,6486.83,8.33,9.73,11.06,13.95,17.33,36.24,0.19,40.97
+Happiest Minds Technologies Ltd.,HAPPSTMNDS.NS,IT Consulting & Software,10927.24,55,23.17,36.72,Expensive Performer,41.49,0.07,17.9,109.62,273.11,12.81,22.33,2247.79,16.78,23.84,26.52,21.59,29.3,44.22,0.8,47.07
+Havells India Ltd.,HAVELLS.NS,Other Electrical Equipment/Products,103050.41,75,18.67,35.29,Expensive Performer,39.87,0,10.24,-194.52,-322.95,6.98,9.43,12432.69,17.06,17.72,18.08,21.51,21.94,59.41,0.55,73.05
+Hero MotoCorp Ltd.,HEROMOTOCO.NS,2/3 Wheelers,82986.79,75,53.17,41.26,"Strong Performer, Under Radar",46.62,0,11.28,378.61,1333.66,10.32,14.41,26152.79,21.15,17.55,19.36,28.51,23.39,34.75,3.37,20.05
+Himadri Speciality Chemical Ltd.,HSCL.NS,Specialty Chemicals,28181.79,80,23.5,66.37,Expensive Star,74.99,0.01,0.66,7.08,-33.79,10.55,15.23,4448.79,13.48,8.38,7.92,19.64,13.56,50.78,0.09,58.47
+Hindalco Industries Ltd.,HINDALCO.NS,Aluminium and Aluminium Products,130339.14,75,82.67,33.64,"Value Stock, Under Radar",38.01,0.45,-3.12,-1037,92.2,5.57,8.26,231907,9.56,12.59,9.89,10.34,12.06,34.64,0.6,10.44
+Hindustan Aeronautics Ltd.,HAL.NS,Defence,275334.67,80,31.83,32.87,Falling Comet,37.14,0,12.87,-186.08,-102.71,27.34,33.67,78095.18,26.15,25.72,23.98,24.49,19.45,71.64,0.85,32.32
+Hindustan Copper Ltd.,HINDCOPPER.NS,Copper,23111.87,70,18.83,28.59,Falling Comet,32.3,0.03,-0.08,-222.32,-136.98,20.36,24.86,3270.07,12.92,15.55,-0.51,15.74,17.91,66.14,0.38,57.44
+Hindustan Petroleum Corporation Ltd.,HINDPETRO.NS,Refineries/Petro-Products,83623.42,60,67.5,55.18,"Strong Performer, Under Radar",62.34,0.81,-1.45,-5322.4,-732.5,0.95,4.89,182784.68,34.13,10.04,13.32,22.05,6.9,54.9,5.34,19.92
+Hindustan Unilever Ltd.,HINDUNILVR.NS,Personal Products,565088.46,60,19.33,42.98,Expensive Performer,48.56,0,2.64,111,106.63,16.45,23.03,78499,20.06,19.42,31.41,21.72,21.38,61.9,2.2,55.03
+Hindustan Zinc Ltd.,HINDZINC.NS,Zinc,188195.71,60,34.67,29.9,Falling Comet,33.78,0.28,-15.42,-6,,27.97,38.92,33895,51.06,53.47,37.02,48.85,57.74,63.42,6.51,21.54
+Hitachi Energy India Ltd.,POWERINDIA.NS,Heavy Electrical Equipment,60627.45,85,8.33,67.38,Expensive Star,76.13,0,17.02,-35.15,-126.85,3.41,5.12,4707.37,12.04,12.57,0,18.94,18.73,75,0.03,304.14
+Home First Finance Company India Ltd.,HOMEFIRST.NS,Housing Finance ,9595.28,40,33.17,50.23,Mid-range Performer,56.75,0,45.37,344.91,459.07,25.96,79.1,9533.96,14.41,12.93,10.91,42.02,32.45,23.38,0.32,28.03
+Honasa Consumer Ltd.,HONASA.NS,Personal Products,8032.9,,26.33,30.52,,34.48,0,29.98,102.38,,3.95,8.13,1632.04,-16.02,-5.82,-3.49,12.82,6.28,34.98,0,102.91
+Honeywell Automation India Ltd.,HONAUT.NS,Other Electrical Equipment/Products,37054.73,80,16.83,44.93,Expensive Performer,50.76,0,17.48,2338.8,8393.62,13.17,16.71,4895.1,13.9,13.19,15.99,18.46,17.63,75,0.24,70.22
+Housing and Urban Development Corporation Ltd.,HUDCO.NS,Financial Institutions,47605.18,75,44.67,43.36,Mid-range Performer,48.99,2.54,12.16,322.05,-69.72,28.07,100.25,93422.34,12.74,11.87,12.28,12.91,11.05,75,1.75,19.31
+ICICI Bank Ltd.,ICICIBANK.NS,Banks,888137.33,60,56.67,50.07,"Strong Performer, Under Radar",56.57,0.82,26.78,25117.9,23.36,27.77,,2364063.03,17.49,15.88,13.5,6.28,5.64,0,0.79,18.34
+ICICI Lombard General Insurance Company Ltd.,ICICIGI.NS,General Insurance,92047.19,60,31.5,51.25,Mid-range Performer,57.9,0,9.18,131.45,-32.6,9.98,14.4,63308.3,15.72,15.23,16.95,20.29,19.53,51.66,0.62,41.36
+ICICI Prudential Life Insurance Company Ltd.,ICICIPRULI.NS,Life Insurance,94370.55,40,20.17,49.28,Expensive Performer,55.68,0.11,78.53,16.97,-99.51,0.88,0.85,299000.66,7.75,8.05,9.37,0.26,0.44,73.05,0.09,107.74
+ICICI Securities Ltd.,ISEC.NS,Capital Markets,27078.33,45,44.17,47.26,Mid-range Performer,53.4,0,47.46,-163.13,29.88,33.13,64.65,25622.67,43.25,46.44,48.54,70.37,66.38,74.35,2.04,13.16
+IDBI Bank Ltd.,IDBI.NS,Banks,79739.81,55,58.17,31.49,Falling Comet,35.58,0.4,20.68,-3241.99,-167.36,24.47,,364271.5,13.41,10.18,-1.99,6.36,5.95,94.71,2.02,11.78
+IDFC First Bank Ltd.,IDFCFIRSTB.NS,Banks,45625.84,50,65.33,38.03,Mid-range Performer,42.97,1.58,33.32,-1297.52,-180.58,6.85,,296209.78,9.11,6.45,0.72,7.09,6.57,0,0,19.68
+IFCI Ltd.,IFCI.NS,Financial Institutions,15443.71,70,30.83,39.08,Mid-range Performer,44.15,0,39.24,261.33,175.1,8.28,66.39,18917.57,2.56,-22.86,-25.6,16.41,7,71.72,0,90.28
+IIFL Finance Ltd.,IIFL.NS,Other Financial Services,18401.18,35,48,43.2,Await Turnaround,48.81,0,24.19,-1162.26,-210.68,9.3,62.97,62421.16,16.58,17.21,15.25,52.09,34.33,24.91,0.92,18.51
+IRB Infrastructure Developers Ltd.,IRB.NS,Roads & Highways,34543.08,45,43.67,40.81,Mid-range Performer,46.11,1.23,22.35,-67.89,-132.23,8.25,42.24,44920.31,4.4,4.22,5.02,7.63,7.12,30.42,0.7,56.06
+ITC Ltd.,ITC.NS,Cigarettes-Tobacco Products,562276.27,50,30.17,40.73,Mid-range Performer,46.02,0,0.95,190.67,144.99,27.34,38.32,91826.16,27.45,26.53,24.97,34.76,34.15,0,3.06,27.37
+ITI Ltd.,ITI.NS,Telecom Equipment,46209.05,50,7.33,73.44,Expensive Rocket,82.97,0.07,-9.66,95.9,909.78,-20.94,-25.93,9598.05,-31.88,-14.35,-7.28,-14.94,-3.32,90,0,-92.1
+Indegene Ltd.,INDGN.NS,Healthcare Services,15099.06,60,27,35.47,Expensive Performer,40.07,0.23,12.77,114.3,602.17,13.75,19.52,2545.6,23.56,23.38,23.23,26.13,26.57,0,0,40.51
+India Cements Ltd.,INDIACEM.NS,Cement & Cement Products,11684.67,40,25.17,65.06,Expensive Rocket,73.51,0.25,-8.34,19.35,740.46,-7.62,-1.2,10700.63,-4.07,-1.6,-0.05,-0.78,-0.49,28.42,0,-34.31
+IndiaMART InterMESH Ltd.,INDIAMART.NS,Internet Software & Services,13813.39,80,34,39.63,Mid-range Performer,44.77,0,20.71,26.7,15.17,33.15,42.23,3448.6,19.23,16.3,23.97,21.23,18.39,49.21,0.87,32.08
+Indian Bank,INDIANB.NS,Banks,68398.83,55,68.5,43.24,Mid-range Performer,48.85,0.43,21.67,-8039.92,-143.73,16.66,,795708.82,15.51,12.99,10.53,6.39,5.83,73.84,2.36,6.93
+Indian Energy Exchange Ltd.,IEX.NS,Exchange,15542.2,75,20.33,37.39,Expensive Performer,42.24,0,16.19,90.88,173.82,78.72,101.98,1773.66,36.08,39.44,40.55,44.8,48.34,0,1.43,39.52
+Indian Hotels Company Ltd.,INDHOTEL.NS,Hotels,118913.53,85,18.17,61.83,Expensive Star,69.86,0,16.86,-259.52,-64.27,23.09,27.85,14855.83,13.31,7.46,2.15,14.66,9.75,38.12,0.21,71.09
+Indian Oil Corporation Ltd.,IOC.NS,Oil Marketing & Distribution,190128.35,65,76.17,29.4,"Value Stock, Under Radar",33.22,0.26,-7.77,250.24,138.3,2.29,8.18,482362,22.75,16.18,13.39,23.9,16.91,51.5,5.2,10.84
+Indian Overseas Bank,IOB.NS,Banks,95457.18,50,35.17,29.97,Slowing Down Stock,33.86,1.22,26.39,-2005.93,-129.87,11.31,,351869.32,10.73,8.84,6.19,6.1,5.76,96.38,0,32.22
+Indian Railway Catering & Tourism Corporation Ltd.,IRCTC.NS,Travel Support Services,61612,60,16,31.21,Falling Comet,35.26,0,21.1,262.49,204.01,26.92,36.84,6091.1,34.4,36.73,32.59,45.48,46.44,62.4,1.04,51.35
+Indian Railway Finance Corporation Ltd.,IRFC.NS,Financial Institutions,188186.49,60,38.83,31.71,Falling Comet,35.83,0,11.38,-139.87,-147.28,24.22,99.5,485082.43,13.03,13.94,13.2,53.32,36.99,86.36,1.04,28.9
+Indian Renewable Energy Development Agency Ltd.,IREDA.NS,Financial Institutions,60447.83,50,23.83,55.63,Expensive Performer,62.85,2.15,42.56,-64.24,91.63,24.97,97.69,62600.42,14.62,13.73,12.25,16.31,20.74,75,0,41.85
+Indraprastha Gas Ltd.,IGL.NS,Utilities:Non-Electrical,28532.03,75,54.5,48.35,"Strong Performer, Under Radar",54.63,0,-0.61,113.43,119.65,12.84,15.79,14219.96,20.6,20.36,20.58,21.8,22,45,2.58,15.46
+Indus Towers Ltd.,INDUSTOWER.NS,Other Telecom Services,87151.71,90,69,33.14,"Value Stock, Under Radar",37.44,0.06,0.76,40.7,141.53,25.8,30.97,55867.6,22.32,20.25,21.78,19.37,19.08,53.01,0,11.55
+IndusInd Bank Ltd.,INDUSINDBK.NS,Banks,76428.87,30,55,35.9,Risky Value,40.56,0.76,23.81,-19877.54,-149.02,16.64,,515093.97,14.26,12.64,11.53,8.28,7.75,16.36,1.68,9.37
+Info Edge (India) Ltd.,NAUKRI.NS,Internet Software & Services,106739.07,65,27.17,58.35,Expensive Performer,65.92,0,7.72,-29.4,-125.98,17.57,45.01,36090.82,1.9,25.03,18.01,3.3,4.47,37.68,0.29,228.25
+Infosys Ltd.,INFY.NS,IT Consulting & Software,803069.62,55,31.17,59.14,Mid-range Performer,66.82,0,5.96,2697,-54.91,17.16,23.72,137814,29.77,30.35,28.35,36.81,37.19,14.43,2.53,29.8
+Inox India Ltd.,INOXINDIA.NS,Other Industrial Products,9791.11,70,18,31.89,Falling Comet,36.03,0,18.11,-5.51,58.19,16.66,23.28,1198.86,30.19,27.99,21.96,38.74,36.32,75,0,50.26
+Inox Wind Ltd.,INOXWIND.NS,Electric Utilities,21890.7,60,16,43.59,Expensive Performer,49.25,0.11,137.25,-9.45,-107.75,8.04,12.32,6794.8,-2.38,-29.24,-25.51,8.73,-4.77,48.27,0,113.39
+Intellect Design Arena Ltd.,INTELLECT.NS,IT Software Products,12852.11,60,29,42.86,Expensive Performer,48.42,0,12.39,106.39,123.97,11.79,18.39,3404.93,13.16,15.14,13.16,18.22,19.45,30.05,0.38,45.17
+InterGlobe Aviation Ltd.,INDIGO.NS,Airlines,165304.83,60,39.17,46.28,Mid-range Performer,52.29,0,27.47,-569.94,-196.15,8.99,17.73,82224.52,409.35,136.45,-1025.12,23.75,5.21,49.29,0,24.91
+Ipca Laboratories Ltd.,IPCALAB.NS,Pharmaceuticals,42584.25,75,26.33,67.39,Expensive Star,76.14,0.09,22.92,-899.69,-441.28,7.75,14.12,11101.28,8.64,10.93,14.75,12.44,14.18,46.3,0.24,64.41
+Ircon International Ltd.,IRCON.NS,Construction & Engineering,19405.66,70,41.17,30.09,Falling Comet,34,0.42,19.73,-143.94,-58.7,8.18,11.05,17444.95,15.83,14.4,12.74,13.2,11.79,65.17,1.5,21.15
+J B Chemicals & Pharmaceuticals Ltd.,JBCHEPHARM.NS,Pharmaceuticals,29507.59,70,25,56.76,Expensive Performer,64.13,0.01,11.47,11.3,440.9,16.47,22.84,3994.13,18.9,17.82,19.43,25.45,22.7,53.74,0.65,48.28
+JBM Auto Ltd.,JBMA.NS,Auto Parts & Equipment,17911.48,80,18,29.85,Falling Comet,33.72,0.58,29.48,9.66,238.74,3.56,8.63,4864.8,15.31,14.97,12.27,21.16,18.55,67.53,0.1,95.61
+JK Cement Ltd.,JKCEMENT.NS,Cement & Cement Products,36586.54,80,39.17,65.85,"Strong Performer, Getting Expensive",74.4,0.78,19.31,-92.43,-184.72,7.14,14.12,14802.1,14.73,13.23,14.99,14.31,12.71,45.68,0.42,44.93
+JK Lakshmi Cement Ltd.,JKLAKSHMI.NS,Cement & Cement Products,9425.38,75,51.67,40.9,"Strong Performer, Under Radar",46.21,0.49,5.34,-16.41,-136.22,5.68,12.87,7650.04,14.8,15.36,16.03,15.57,16.02,46.34,0.81,26.4
+JK Tyre & Industries Ltd.,JKTYRE.NS,Auto Tyres & Rubber Products,10223.69,75,73.17,31.36,"Value Stock, Under Radar",35.43,0.49,2.48,-7.19,-136.39,5.03,11.23,14094.49,17.52,10.87,10.2,20.04,14.61,50.55,1.21,13.88
+JM Financial Ltd.,JMFINANCIL.NS,Holding Companies,11648.87,50,60,50.08,Mid-range Performer,56.58,0,44.54,1707.56,10261.41,9.48,58.01,29763.6,4.82,7.4,8.06,24.25,18.72,56.43,1.64,25.78
+JSW Energy Ltd.,JSWENERGY.NS,Electric Utilities,101256.97,55,34.67,36.83,Mid-range Performer,41.61,1.33,9.89,-409.27,-368.29,17.15,36.59,58269.1,8.26,8.7,8.21,8.24,8.84,69.32,0.35,51.72
+JSW Infrastructure Ltd.,JSWINFRA.NS,Marine Port & Services,67074.05,,19.67,59.74,,67.5,0.53,19.55,102.41,1881.35,30.75,47.76,13827.56,14.4,14.31,12.1,13.72,13.25,85.61,0.17,53.89
+JSW Steel Ltd.,JSWSTEEL.NS,Iron & Steel/Interm.Products,220335.41,65,43.67,45.17,Mid-range Performer,51.03,0.87,5.4,-7565,-200.07,2.93,12.03,228198,11.34,16.11,15.25,12.99,15.47,44.84,0.81,44.08
+Jaiprakash Power Ventures Ltd.,JPPOWER.NS,Electric Utilities,11746.83,75,85.5,32.66,"Value Stock, Under Radar",36.9,0.47,20.75,-27.57,35.76,19.34,31.93,17303.27,13.33,5.26,-3,13.91,8.33,24,0,9.09
+Jammu & Kashmir Bank Ltd.,J&KBANK.NS,Banks,10653.94,60,71.5,29.62,"Value Stock, Under Radar",33.47,0.26,19.07,-702.38,-143.12,17.02,,154504.58,16.21,12.31,4.43,5.53,4.83,59.4,2.22,5.25
+Jindal Saw Ltd.,JINDALSAW.NS,Other Industrial Products,17106.84,95,82,40.82,"Strong Performer, Under Radar",46.12,0.21,17.06,663.15,74.53,9.14,13.93,21021.58,16.61,9.9,8.49,23,15.86,63.28,0.75,8.66
+Jindal Stainless Ltd.,JSL.NS,Iron & Steel/Interm.Products,52391.75,70,51.83,34.2,"Value Stock, Under Radar",38.64,0.32,8.12,648.62,1645.95,6.49,10.35,30817.25,18.89,24.29,17.71,19.22,24.19,60.49,0.31,21.36
+Jindal Steel & Power Ltd.,JINDALSTEL.NS,Iron & Steel/Interm.Products,95974.99,65,61.67,42.55,"Strong Performer, Under Radar",48.07,0.23,-4.9,-954.67,-117.47,10.13,15.06,78715.18,13.4,12.58,9.76,12.01,16.83,61.19,0.21,18.95
+Jio Financial Services Ltd.,JIOFIN.NS,Finance (including NBFCs),189645.53,70,21.67,33.2,Falling Comet,37.51,0,4036.22,10.61,,82.66,82.94,144862.99,1.15,0.39,0.23,1.06,0.37,47.12,0,118.07
+Jubilant Foodworks Ltd.,JUBLFOOD.NS,Restaurants,49290.44,55,15.67,67.42,Expensive Rocket,76.17,0.55,9.36,12.87,109.17,5.75,10.38,8125.7,18.39,19.11,19.7,9.46,15.17,41.94,0.16,125.4
+Jubilant Ingrevia Ltd.,JUBLINGREA.NS,Specialty Chemicals,12580.82,35,28.67,59.75,Momentum Trap,67.51,0.16,-13.21,5.34,242.69,4.27,7.74,4731.89,6.68,12.6,8.12,9.29,17.04,51.47,0.63,71.67
+Jubilant Pharmova Ltd.,JUBLPHARMA.NS,Pharmaceuticals,16537.36,70,61,52.43,"Strong Performer, Under Radar",59.24,0.58,7.14,-69.1,89.6,8.57,8.76,11548.5,1.41,2.69,8.34,6.08,6.07,50.68,0.48,27.88
+Jupiter Wagons Ltd.,JWL.NS,Commercial Vehicles,20418.35,70,21.67,32.05,Falling Comet,36.21,0,76.93,5.2,-82.42,9.44,13.32,2939.98,20.51,14.27,10.25,28.81,23.02,68.11,0.33,55.44
+Just Dial Ltd.,JUSTDIAL.NS,Internet Software & Services,9212.84,70,54,43.85,"Strong Performer, Under Radar",49.54,0,36.66,2.12,-90.22,45.69,45.61,4860.97,9.01,5.16,10.71,11.19,6.27,74.15,0,18.32
+Jyothy Labs Ltd.,JYOTHYLAB.NS,Personal Products,14809.76,80,29.5,38.57,Expensive Performer,43.58,0,11.29,-21.26,-137.34,13.36,17.54,2400.93,20.43,15.71,14.99,25.18,19.17,62.89,0.87,39.41
+Jyoti CNC Automation Ltd.,JYOTICNC.NS,Industrial Machinery,31066,55,5.5,61.1,Expensive Rocket,69.03,0.06,41.19,286.24,4012.67,16.94,20.52,2178.34,11.05,-29.32,-30.03,18.75,24.51,62.55,0,113.18
+KEC International Ltd.,KEC.NS,Heavy Electrical Equipment,28134.68,65,34.17,58.22,Mid-range Performer,65.78,0.06,15.33,-56.59,-206.25,2.03,5.43,19031.47,8.46,7.43,11.79,23.92,19.17,50.1,0.38,66.73
+KEI Industries Ltd.,KEI.NS,Other Electrical Equipment/Products,40700.15,60,19.83,47.82,Expensive Performer,54.03,0,17.48,186.14,84.84,7.16,10.18,4656.45,18.44,18.16,17.37,25.58,25.35,35.02,0.08,65.2
+KFIN Technologies Ltd.,KFINTECH.NS,Other Financial Services,24951.87,70,12.17,67.3,Expensive Star,76.04,0,16.9,-15.05,-230.89,30.95,40.38,1418.69,21.57,22.38,9.92,25.94,26.7,33.04,0.4,83.54
+KNR Constructions Ltd.,KNRCON.NS,Construction & Engineering,9469.17,80,62,51.75,"Strong Performer, Under Radar",58.47,0.33,11.59,165.4,90.62,20.73,23.38,5803.79,21.92,18.3,18.56,22.02,20.84,48.81,0.07,8.55
+KPIT Technologies Ltd.,KPITTECH.NS,IT Consulting & Software,39339.64,80,23.33,34.05,Falling Comet,38.47,0,44.83,198.08,1552.62,13.45,17.56,4167.9,27.7,23.9,19.56,32.22,26.05,39.47,0.47,54.07
+KPR Mill Ltd.,KPRMILL.NS,Textiles,34113.04,70,25.17,58.6,Expensive Performer,66.21,0.07,-1.94,-33.45,60.11,13.42,18.39,5863.99,18.47,22.28,21.79,23.33,26.83,70.68,0.5,42.17
+KSB Ltd.,KSB.NS,Industrial Machinery,12913.71,70,19.83,40.46,Expensive Performer,45.71,0,22.29,87.51,123.75,9.52,12.29,2065.74,16.03,15.59,13.89,20.47,19.9,69.8,0.47,56.32
+Kajaria Ceramics Ltd.,KAJARIACER.NS,Ceramics,16894.01,70,29.83,29.67,Falling Comet,33.52,0.02,4.74,87.79,907.92,8.13,13.05,3542.91,16.13,16.23,16.01,20.78,20.77,47.49,1.04,44.37
+Kalpataru Projects International Ltd.,KPIL.NS,Construction & Engineering,21236.41,55,42.67,45.35,Mid-range Performer,51.24,0.28,20.06,55.83,32.71,2.57,6.21,22037.71,9.91,10.62,12.28,16.81,14.49,33.52,0.64,40.49
+Kalyan Jewellers India Ltd.,KALYANKJIL.NS,Gems & Jewellery,73118.46,60,17.33,62.07,Expensive Star,70.13,0,31.98,36.8,-81.96,2.93,5.99,12817.74,14.25,11.1,8.02,21.24,19.54,62.9,0.17,116.69
+Kansai Nerolac Paints Ltd.,KANSAINER.NS,Paints,20856.87,65,39.67,42.28,Mid-range Performer,47.77,0,4.29,64.41,179.39,8.03,11.91,7409.72,21.23,13.45,13.45,15.77,13.71,74.99,1.45,33.43
+Karur Vysya Bank Ltd.,KARURVYSYA.NS,Banks,17088.83,50,76,47.21,Mid-range Performer,53.34,0.25,28.5,963.43,-50.02,20.02,,105585.2,15.98,12.57,9.29,7.11,6.47,2.13,1.13,9.49
+Kaynes Technology India Ltd.,KAYNES.NS,Other Electrical Equipment/Products,44597.92,60,7.67,66.37,Expensive Star,74.99,0,63.56,-6.52,-382.62,10.68,15.78,3265.18,7.37,12.59,10.76,11.26,19.93,57.75,0,187.83
+Kirloskar Brothers Ltd.,KIRLOSBROS.NS,Industrial Machinery,17706.6,60,27.83,54.12,Expensive Performer,61.15,0.04,,39.52,127.7,9.29,12.49,3324.71,20.25,0,0,26.03,0,65.95,0.27,44.78
+Kirloskar Oil Engines Ltd.,KIRLOSENG.NS,Heavy Electrical Equipment,14378.59,60,37.83,32.14,Falling Comet,36.31,0.74,17.32,222.65,89.15,8.49,15.89,8277.87,16.51,13.11,12.01,19.81,15.28,41.17,0.61,27.38
+Kotak Mahindra Bank Ltd.,KOTAKBANK.NS,Banks,352702.01,55,55.83,55.45,Mid-range Performer,62.65,0.58,38.35,22103.18,235.54,35.68,,767666.96,14.01,13.28,12.92,6.69,6.02,25.89,0.11,15.96
+Krishna Institute of Medical Sciences Ltd.,KIMS.NS,Healthcare Facilities,26283.12,55,14.17,69.87,Expensive Rocket,78.94,0.51,12.94,-14.72,-226.73,12.25,20.29,3852.02,16.96,20.36,20.86,14.91,20.4,38.82,0,79.33
+L&T Finance Ltd.,LTF.NS,Finance (including NBFCs),35401.16,50,60.67,41.14,Mid-range Performer,46.48,0,5.66,-5515.33,-508.8,17.16,61.89,102717.55,9.89,7.6,7.91,35.26,19.6,66.29,1.76,13.75
+L&T Technology Services Ltd.,LTTS.NS,IT Consulting & Software,51894.76,55,26.33,43.68,Expensive Performer,49.35,0,19.86,601.6,1574.51,13.11,19.22,8488.5,24.47,23.69,23.95,31.16,30.36,73.69,1.02,39.61
+LIC Housing Finance Ltd.,LICHSGFIN.NS,Housing Finance ,32126.43,70,66.83,32.69,"Value Stock, Under Radar",36.93,0,20.02,781.45,2188.32,17.77,89.63,291333.66,15.12,11.66,12.29,75.74,52,45.24,1.54,6.58
+LTIMindtree Ltd.,LTIM.NS,IT Consulting & Software,174746.23,65,28.5,48.99,Expensive Performer,55.35,0,7.35,-511.4,-317.8,12.75,17.65,27563,22.89,25.17,26.02,28.73,31.63,68.6,1.1,37.55
+Larsen & Toubro Ltd.,LT.NS,Construction & Engineering,506241.59,60,37.67,46.76,Mid-range Performer,52.83,0.65,20.94,-4984.04,-332.8,5.66,10.84,339627.24,15.12,12.45,13.39,14.7,12.53,0,0.78,37.43
+Latent View Analytics Ltd.,LATENTVIEW.NS,Data Processing Services,10013.86,55,18.67,43.34,Expensive Performer,48.97,0,20.16,110.52,78.81,23.52,31.22,1455.88,11.54,12.34,15.77,14.26,14.23,65.39,0,58.71
+Laurus Labs Ltd.,LAURUSLABS.NS,Pharmaceuticals,32786.55,50,14.33,67.84,Expensive Rocket,76.65,0.19,-16.2,93.1,99.31,2.59,8.31,8387.03,3.9,16.05,20.09,7.94,19.98,27.18,0.13,250.09
+Lemon Tree Hotels Ltd.,LEMONTREE.NS,Hotels,11590.57,65,21,51.28,Expensive Performer,57.94,1.73,22.56,9.96,-88.5,12.99,38.9,4033.04,15.35,6.08,0.65,11.34,7.57,22.77,0,76.34
+Life Insurance Corporation of India,LICI.NS,Life Insurance,551539.8,25,47.33,32.37,Weak Stock,36.57,0,8.63,0,100,4.64,4.95,5316047.11,49.44,54.56,95.59,0.79,0.62,96.5,1.15,13.28
+Linde India Ltd.,LINDEINDIA.NS,Industrial Gases,55281.22,65,8,36.36,Expensive Performer,41.08,0,-12.16,-207.79,-347.07,16.98,20.89,4805.24,12.51,0,0,15.32,0,75,0.19,124.06
+Lloyds Metals & Energy Ltd.,LLOYDSME.NS,Mining,74614.29,55,20.83,75.68,Expensive Rocket,85.5,0,89.65,-24.99,-118.74,20.25,26.56,3937.54,44.21,15.18,13.53,58.68,45.48,63.49,0.07,50.86
+Lupin Ltd.,LUPIN.NS,Pharmaceuticals,103975.84,75,37.67,65.54,"Strong Performer, Getting Expensive",74.05,0,20.44,-248.05,80.96,12.26,13.66,23997.18,13.39,1.42,2.19,17.64,5.27,46.96,0.35,39.59
+MMTC Ltd.,MMTC.NS,Commodity Trading  & Distribution,11433,,15.17,37.31,,42.15,0,-94.36,-197.99,-346.41,5760.61,601.31,3686.68,11.82,40.85,-141.59,1.93,-141.71,89.93,0,55.44
+MRF Ltd.,MRF.NS,Auto Tyres & Rubber Products,51058.6,90,52.5,36.05,"Strong Performer, Under Radar",40.73,0.04,9.56,53.1,105.25,7.32,12.47,26849.43,12.46,7.48,8.72,16.4,10.61,27.77,0.17,26.22
+Macrotech Developers Ltd.,LODHA.NS,Realty,134616.38,65,21.83,53.54,Expensive Performer,60.49,0.11,8.93,516.2,374.9,16.64,25.44,47225.2,8.86,7.54,8.25,13.26,14.19,72.11,0.17,65.13
+Mahanagar Gas Ltd.,MGL.NS,Utilities:Non-Electrical,12396.61,75,62,37.46,"Strong Performer, Under Radar",42.32,0,0.84,-13.34,,17.21,27.58,7381.29,24.87,14.66,8.8,30.53,18.11,32.5,2.39,10.86
+Maharashtra Seamless Ltd.,MAHSEAMLES.NS,Iron & Steel/Interm.Products,9527.35,75,63.83,50.34,"Strong Performer, Under Radar",56.87,0,-4.46,0.14,100.89,16.58,23.2,6587.85,16.57,14.28,9.69,20.36,17.29,68.07,1.41,11.29
+Mahindra & Mahindra Financial Services Ltd.,M&MFIN.NS,Finance (including NBFCs),34409.51,40,51.83,42.61,Mid-range Performer,48.14,2.08,24.45,316.63,1121.1,12.7,60.08,123715.79,9.69,9.19,8.29,15.29,13.62,52.16,2.26,15.78
+Mahindra & Mahindra Ltd.,M&M.NS,Cars & Utility Vehicles,385966.47,25,30.33,68.46,Momentum Trap,77.35,1.02,15.31,1053.69,900.07,8.13,16.15,236300.73,17.02,16.4,10.77,13.89,12.27,18.54,0.68,32.53
+Mahindra Lifespace Developers Ltd.,MAHLIFE.NS,Realty,7066.49,45,31.83,29.76,Slowing Down Stock,33.62,0.35,-57.68,41.59,84.4,41.15,-55.54,4963.05,5.24,6.49,0.75,-4.65,-4.24,51.15,0.58,58.8
+Manappuram Finance Ltd.,MANAPPURAM.NS,Finance (including NBFCs),15980.69,55,64.83,42.7,Mid-range Performer,48.24,0,32.15,49.39,106.61,23.09,65.83,46747.9,18.95,16.78,19.92,49.09,31.82,35.25,2.07,7.07
+Mangalore Refinery And Petrochemicals Ltd.,MRPL.NS,Refineries/Petro-Products,26148.77,75,61.67,32.44,"Value Stock, Under Radar",36.65,0.67,-16.92,2.93,-87.82,0.92,7.33,35430.03,27.08,31.67,6.52,28.74,23.46,88.58,2.01,28.83
+Mankind Pharma Ltd.,MANKIND.NS,Pharmaceuticals,118800.7,85,20.67,62.04,Expensive Star,70.09,0,19.57,76.02,181.94,19.2,23.39,11963.25,20.43,20.32,23.46,24.56,25.73,72.71,0,56.17
+Marico Ltd.,MARICO.NS,Personal Products,82766.42,60,17.67,61.34,Expensive Star,69.3,0,-1.14,70,536.36,15.87,20.82,7421,38.64,36.5,35.89,40.38,41.78,59.2,1.02,52.12
+Maruti Suzuki India Ltd.,MARUTI.NS,Cars & Utility Vehicles,371686.75,75,46.5,49.76,Mid-range Performer,56.22,0,21.92,874.3,4271.5,9.66,12.24,115350.8,15.75,12.01,11.18,19.42,14.51,58.19,1.06,26.51
+Mastek Ltd.,MASTEK.NS,IT Consulting & Software,9346.46,65,48.17,49.09,Mid-range Performer,55.46,0.15,18.03,165.71,-52.76,11.33,14.23,3685.13,14.38,19.77,18.14,16.75,20.78,36.23,0.63,25.43
+Max Financial Services Ltd.,MFSL.NS,Life Insurance,37752.11,55,35.83,55.55,Mid-range Performer,62.76,0.13,48.32,986.06,2016.82,0.66,0.98,162773.47,8.79,8.66,9.09,7.93,8.76,3.34,0,109.63
+Max Healthcare Institute Ltd.,MAXHEALTH.NS,Healthcare Facilities,117331.48,55,9.5,62.33,Expensive Rocket,70.42,0.13,18.76,-427.39,-280.95,17.63,26.36,11999.94,12.57,12.36,7.39,13.25,11.99,23.74,0.12,110.8
+Mazagon Dock Shipbuilders Ltd.,MAZDOCK.NS,Defence,86726.7,85,29.67,46.47,Expensive Performer,52.5,0,24.13,1655.06,544.92,24.3,25.66,29448.81,31.02,23.45,20.14,35.65,26.3,84.83,0.82,33.73
+Metro Brands Ltd.,METROBRAND.NS,Footwear,34152.07,60,13.67,51.15,Expensive Performer,57.79,0,11.28,16.09,1.7,17.41,22.96,3352.68,22.13,20.74,17.97,19.01,19.92,71.96,0.4,82.44
+Metropolis Healthcare Ltd.,METROPOLIS.NS,Healthcare Services,10389.83,50,19.67,42.61,Expensive Performer,48.14,0,4.59,-6.54,-102.35,11.52,16.33,1555.06,11.66,16.74,20.09,15.06,18.85,49.43,0,70.19
+Minda Corporation Ltd.,MINDACORP.NS,Auto Parts & Equipment,12648.5,75,28.33,61.83,Expensive Star,69.86,0.07,8.13,45.1,291.91,5.38,7.83,3439,11.49,14.63,5.6,15.59,15.38,64.84,0.26,48.32
+Motherson Sumi Wiring India Ltd.,MSUMI.NS,Auto Parts & Equipment,25377.16,95,30.33,33.22,Falling Comet,37.53,0.01,17.73,130.9,467400,7.45,10.48,3138.9,38.06,37.17,22.3,45.66,45.27,61.73,1.39,38.44
+Motilal Oswal Financial Services Ltd.,MOTILALOFS.NS,Capital Markets,56511.97,70,42.83,64.46,"Strong Performer, Getting Expensive",72.83,0.98,69.89,2709.35,504.08,37.3,57.24,31829.21,27.95,21.98,19.99,22.57,18.8,68.86,0.37,16.7
+MphasiS Ltd.,MPHASIS.NS,IT Consulting & Software,55331.37,45,32.17,48.71,Mid-range Performer,55.03,0,-3.32,-225.3,1.54,11.63,16.78,14130.24,17.67,19.64,19.57,22.45,24.51,40.32,1.88,34.7
+Multi Commodity Exchange of India Ltd.,MCX.NS,Exchange,30237.21,70,22.17,54.69,Expensive Performer,61.79,0,30.59,-1.57,99.58,38.88,15.18,3408.79,6.02,8.73,11.89,4.66,8.04,0,0.13,87.12
+Muthoot Finance Ltd.,MUTHOOTFIN.NS,Finance (including NBFCs),87533.18,40,41.17,66.58,Turnaround Potential,75.22,0,26.62,-1751.06,-190.37,26.91,75.86,96469.42,17.22,18.42,21.24,43.42,32.13,73.35,1.1,18.71
+NBCC (India) Ltd.,NBCC.NS,Construction & Engineering,24235.2,80,26.67,31.91,Falling Comet,36.05,0,19.03,-248.82,-143.81,4.29,7.11,12779.5,18.04,14.81,12.67,27.57,21.73,61.75,0.47,51.18
+NCC Ltd.,NCC.NS,Construction & Engineering,16593.99,90,66.33,33.2,"Value Stock, Under Radar",37.51,0.01,33.56,269.54,249.15,3.71,8.07,18097.38,10.7,9.73,8.24,24.1,20.02,22,0.83,19.93
+NHPC Ltd.,NHPC.NS,Electric Utilities,79446.18,55,48,31.53,Slowing Down Stock,35.62,0.76,-2.58,387.87,-4.25,30.75,52.38,93295.49,9.36,10,9.8,6.12,6.94,67.4,2.4,26.67
+NLC India Ltd.,NLCINDIA.NS,Electric Utilities,32169.97,65,60.67,33.87,"Value Stock, Under Radar",38.27,1.16,-19.77,487.39,247.19,13.36,20.44,54941.81,11.21,9.37,9.72,6.04,8.53,72.2,1.29,17.52
+NMDC Ltd.,NMDC.NS,Mining,58026,70,66.33,29.93,"Value Stock, Under Radar",33.82,0,23.02,16.39,-95.43,27.34,39.01,35661.03,21.73,24.43,21.44,30.49,30.59,60.79,3.66,9.55
+NMDC Steel Ltd.,NSLNISP.NS,Iron & Steel/Interm.Products,12367.16,25,24.67,28.31,Weak Stock,31.99,0.28,,-614.49,-7990667.23,-40.71,-61.34,29368.32,-10.07,-3.36,-197.51,-8.4,-2.8,60.79,0,-4.81
+NTPC Ltd.,NTPC.NS,Electric Utilities,314220.46,70,68,42.65,"Strong Performer, Under Radar",48.19,1.18,1.79,397.69,10.32,12.02,21.03,480196.57,12.95,12.25,11.63,9.93,9.38,51.1,2.47,14.24
+Narayana Hrudayalaya Ltd.,NH.NS,Healthcare Facilities,27588.71,70,29,63.89,Expensive Star,72.18,0.41,10.96,97.11,4207.87,14.91,19.63,5624.58,27.36,26.25,17.59,21.82,23.05,63.85,0.3,35.43
+Natco Pharma Ltd.,NATCOPHARM.NS,Pharmaceuticals,23616.54,75,57.83,45.13,"Strong Performer, Under Radar",50.99,0,46.78,-68,-793.88,42.64,42.33,6906.3,23.71,14.12,13.05,28.52,17.04,49.62,0.44,12.14
+National Aluminium Company Ltd.,NATIONALUM.NS,Aluminium and Aluminium Products,37292.81,75,69.17,45.93,"Strong Performer, Under Radar",51.89,0,-7.53,-19.8,-110.15,22.5,18.05,19235.03,13.82,16.08,12.35,14.78,18.73,51.28,3.94,12.02
+Navin Fluorine International Ltd.,NAVINFLUOR.NS,Commodity Chemicals,17802.75,40,23.33,54.08,Expensive Performer,61.1,0.43,0.37,-7.83,82.55,12.04,17.33,4377,11.35,14.26,17.49,10.17,14.95,28.44,0.33,68.89
+Nestle India Ltd.,NESTLEIND.NS,Packaged Foods,213604.21,85,13.67,38.61,Expensive Performer,43.62,0.01,44.38,-197.55,-211.53,16.79,22.25,10523.06,117.71,0,0,82.68,0,62.76,0.82,64.29
+Netweb Technologies India Ltd.,NETWEB.NS,IT Consulting & Software,15624.31,65,8,50.29,Expensive Performer,56.82,0,65.14,82.58,317526.92,10.53,14.93,612.47,17.95,39.55,31.27,24.95,47.46,71.39,0.07,161.36
+Network18 Media & Investments Ltd.,NETWORK18.NS,Broadcasting & Cable TV,10562.7,25,27.33,27.33,Weak Stock,30.88,0,58.12,-10495.23,-5045.91,-3.85,-1.9,39881.06,-1.4,4.54,-5.26,-0.6,7.44,56.89,0,-29.98
+Newgen Software Technologies Ltd.,NEWGEN.NS,IT Consulting & Software,23007.86,85,13.83,64.11,Expensive Star,72.43,0,28.17,15.15,151.22,21.2,24.79,1686.48,20.56,19.61,18.21,23.59,22.87,54.3,0.24,78.92
+Nippon Life India Asset Management Ltd.,NAM-INDIA.NS,Asset Management Cos.,44450.36,65,26.83,58.2,Expensive Performer,65.76,0,34.34,2.97,101.61,67.06,82.68,4375.04,27.87,23.28,21.56,32.75,28.52,72.49,2.71,33.68
+Nuvama Wealth Management Ltd.,NUVAMA.NS,Capital Markets,23977.25,55,32,58.56,Mid-range Performer,66.16,0,41.58,-422.31,-19.44,22.18,45.37,20386.93,21.6,-74.6,-44.76,46.06,36.17,55.18,2.16,28.69
+Nuvoco Vistas Corporation Ltd.,NUVOCO.NS,Cement & Cement Products,12561.18,70,43,47.57,Mid-range Performer,53.75,0.32,1.58,-94.91,-144.57,0.48,6.88,18709.93,1.64,0.72,1.3,5.48,3.85,72.02,0,256.09
+Oberoi Realty Ltd.,OBEROIRLTY.NS,Realty,82246.82,85,31,62.82,"Strong Performer, Getting Expensive",70.98,0.16,12.24,131.09,1257.38,45.59,59.72,19633.41,13.91,13.18,11.08,16.41,13.3,67.7,0.44,35.42
+Oil And Natural Gas Corporation Ltd.,ONGC.NS,Exploration & Production,349102.5,65,75.67,48.02,"Strong Performer, Under Radar",54.25,0.23,-5.74,-3654.42,-2399.79,6.19,14.59,710192.97,14.6,14.92,11.47,15.43,13.62,58.89,4.6,8.58
+Oil India Ltd.,OIL.NS,Exploration & Production,79703.78,60,75.33,42.52,"Strong Performer, Under Radar",48.04,0.4,-8.17,-30.85,-107.27,24.58,36.09,92152.86,13.1,18.06,17.86,15.06,18.24,56.66,2.28,9.5
+Olectra Greentech Ltd.,OLECTRA.NS,Commercial Vehicles,11655.46,80,15.33,31.26,Falling Comet,35.32,0.01,5.9,0.51,-94.97,7.64,12.2,1588.58,8.41,6.92,4.74,14.44,11.67,50.02,0.03,103.83
+One97 Communications Ltd.,PAYTM.NS,Internet Software & Services,57377.78,45,13.67,68.84,Expensive Rocket,77.78,0,25.29,946.7,352.59,-8.21,-13.25,17139.1,-10.63,-13.72,-20.44,-9.7,-12.68,0,0,-84.38
+Oracle Financial Services Software Ltd.,OFSS.NS,IT Consulting & Software,104008.1,65,22.33,59.77,Expensive Performer,67.53,0,14.01,1430.17,280.85,36.26,45.49,9935.74,28.24,26.35,25.4,35.24,33.2,72.69,2,41.68
+PB Fintech Ltd.,POLICYBZR.NS,Internet Software & Services,91442.34,75,7.83,62.72,Expensive Star,70.86,0,35.55,252.63,160.99,5.06,3.07,6728.51,1.14,-7.71,-10.94,1.72,-7.05,0,0,436.51
+PCBL Ltd.,PCBL.NS,Carbon Black,15759.06,50,46.17,52.96,Mid-range Performer,59.84,1.16,11.01,272.07,9616.79,6.34,13.35,11295.41,15.12,15.67,16.02,10.6,15.26,51.41,1.32,31.49
+PI Industries Ltd.,PIIND.NS,Agrochemicals,55149.53,75,35.33,41.97,Mid-range Performer,47.42,0.01,18.38,13.8,192,22.39,24.97,10764,19.25,16.7,16.27,21.14,19.17,46.09,0.41,31.07
+PNB Housing Finance Ltd.,PNBHOUSING.NS,Housing Finance ,22762.02,50,56.17,52.01,Mid-range Performer,58.76,0,8.08,-1668.96,-7.97,23.12,88.15,72404.85,10.07,9.34,9.31,40.91,23.67,28.11,0,13.55
+PNC Infratech Ltd.,PNCINFRA.NS,Roads & Highways,7875.75,60,69.83,25.61,"Value Stock, Under Radar",28.93,1.4,8.64,586.42,101444.76,15.04,22.07,15610.21,17.54,16.3,17.34,14.28,13.8,56.07,0.2,6.35
+PTC Industries Ltd.,PTCIL.NS,Other Industrial Products,25850.57,70,2.17,63.31,Expensive Star,71.53,0.13,19.2,127.41,22259.83,18.21,27.01,895.69,6.53,7.51,0,9.21,10.79,59.8,0,574.44
+PVR INOX Ltd.,PVRINOX.NS,Movies & Entertainment,11586.81,35,36,35.31,Await Turnaround,39.89,0.14,63.55,59.9,-83.99,-5.47,12.23,16820.4,-0.43,-13.54,-15.91,5.16,1.55,27.49,0,-37.72
+Page Industries Ltd.,PAGEIND.NS,Other Apparels & Accessories,53609.32,70,13.17,60.19,Expensive Star,68,0,-4.2,89.14,225.37,13.08,17.49,2682.58,35.64,42.19,41.38,45.94,54.18,44.29,1.6,86.32
+Patanjali Foods Ltd.,PATANJALI.NS,Edible Oils,66786.25,70,28.5,66.27,Expensive Star,74.87,0,0.44,-265.67,-147.07,3.16,3.94,13262.07,7.49,11,55.47,12.21,13.94,69.76,0.76,67.14
+Persistent Systems Ltd.,PERSISTENT.NS,IT Consulting & Software,96990.91,80,14.17,61.62,Expensive Star,69.62,0,18.15,158.14,216.33,11.5,15.21,7373.62,22.05,21.92,19.23,28.79,26.83,30.66,0.42,78.67
+Petronet LNG Ltd.,PETRONET.NS,Oil Marketing & Distribution,49800,75,67.5,42.34,"Strong Performer, Under Radar",47.84,0,-11.73,1660.71,1410.85,7.19,9.55,25523.03,20.97,22.63,23.42,23.57,24.15,50,3.01,12.6
+Pfizer Ltd.,PFIZER.NS,Pharmaceuticals,24695.07,70,24.5,61.39,Expensive Star,69.36,0,-6.02,75.4,104.68,27.61,34.35,4228.78,15.33,18.72,18.39,20.46,23.4,63.92,0.65,39.97
+Phoenix Mills Ltd.,PHOENIXLTD.NS,Realty,59838.79,65,25.67,37.2,Expensive Performer,42.03,0.4,49.2,3.37,-2.49,25.69,51.25,19283.34,11.62,10.38,8.25,11.96,8.8,47.27,0.15,56.63
+Pidilite Industries Ltd.,PIDILITIND.NS,Specialty Chemicals,148150.81,75,15.5,35.69,Expensive Performer,40.32,0,5.69,212.29,157.07,15.1,20.23,12103.95,20.57,19.02,20.47,26.93,23.84,69.6,0.55,77.47
+Piramal Enterprises Ltd.,PEL.NS,Finance (including NBFCs),23606.39,40,23.67,50.33,Expensive Performer,56.86,1.23,12.01,-455.47,-115.37,-20.26,29.92,82605,-6.33,10.39,7.07,5,5.16,46.3,0.96,-12.45
+Piramal Pharma Ltd.,PPLPHARMA.NS,Pharmaceuticals,32553.74,85,22.17,53.4,Expensive Performer,60.33,0.31,14.23,148.17,56.83,0.52,7.72,15311.81,0.22,1.03,3.59,5.76,4.65,34.95,0.04,718.15
+Poly Medicure Ltd.,POLYMED.NS,Healthcare Supplies,28036.82,80,12.17,68.96,Expensive Star,77.91,0,24.59,4.99,5034.47,19.37,25.66,1858.67,17.56,15.15,16.31,23.42,19.86,62.56,0.11,95.08
+Polycab India Ltd.,POLYCAB.NS,Other Electrical Equipment/Products,105278.25,50,18.83,47.22,Expensive Performer,53.35,0,28.22,156.95,139.41,8.92,13.67,12078.88,21.79,19.11,19.13,29.02,25.16,63.06,0.43,58.66
+Poonawalla Fincorp Ltd.,POONAWALLA.NS,Finance (including NBFCs),24934.62,55,23.17,35.73,Expensive Performer,40.37,0,56.72,-256.47,-268.88,11.46,72.94,24086.9,20.6,12.25,2.45,27.42,20.77,62.36,0.62,59.73
+Power Finance Corporation Ltd.,PFC.NS,Financial Institutions,143719.43,55,64.5,35.2,Mid-range Performer,39.77,0,17.46,31.9,-98.94,21.6,100.49,1038877.38,19.53,19.32,18.34,67.44,48.21,55.99,3.62,6.78
+Power Grid Corporation of India Ltd.,POWERGRID.NS,Electric Utilities,285203.02,75,50.67,35.57,"Strong Performer, Under Radar",40.19,1.21,0.66,-1728.22,-850.35,34.3,60.81,250890.52,17.87,19.5,18.56,13.46,12.76,51.34,3.83,18.15
+Praj Industries Ltd.,PRAJIND.NS,Industrial Machinery,14778.57,60,18.5,58.66,Expensive Performer,66.28,0,-1.51,65.38,20.01,7.33,11.17,2895.44,22.23,20.29,16.15,26.96,25.91,32.81,0.75,59.95
+Prestige Estates Projects Ltd.,PRESTIGE.NS,Realty,67624.64,60,20.17,42.45,Expensive Performer,47.96,0.4,7.45,718.3,-57.72,8.38,42.27,48518.7,12.17,11.42,12.72,17.69,12.99,60.94,0.11,99.29
+Procter & Gamble Hygiene & Healthcare Ltd.,PGHH.NS,Personal Products,47808.12,55,9.5,33.93,Expensive Underperformer,38.33,0,7.57,-390.16,-65.06,16.09,22.96,1858.56,87.11,78.95,73.1,110.03,96.06,70.64,1.09,70.7
+Punjab National Bank,PNB.NS,Banks,117113.09,55,71.33,32.08,Falling Comet,36.24,0.71,23.52,-25928.29,-541.87,12.46,,1598635.96,8.92,5.57,4.09,5.99,5.42,70.08,1.47,8.1
+Quess Corp Ltd.,QUESS.NS,BPO/KPO,9619.32,85,58.67,42.41,"Strong Performer, Under Radar",47.92,0,11.32,82.26,136.64,1.78,2.3,6255.04,9.92,9.51,2.3,12.12,12.1,56.57,1.55,27.14
+R R Kabel Ltd.,RRKABEL.NS,Other Electrical Equipment/Products,15821.11,65,24.83,36.94,Expensive Performer,41.74,0,18.17,50.46,1894.41,3.76,6.95,2869.3,16.3,20.27,16.45,23.8,21.94,61.78,0.39,60.02
+RBL Bank Ltd.,RBLBANK.NS,Banks,9888.72,70,78.5,36.41,"Strong Performer, Under Radar",41.14,0.96,28.18,5604.32,72.41,8.79,,138453.92,8.49,4.65,4.57,7.15,6.66,0,0.92,8.3
+REC Ltd.,RECLTD.NS,Financial Institutions,132727.66,50,57,33.8,Falling Comet,38.19,0,20.37,34.21,106.35,28.91,100.84,548191.09,20.56,19.91,18.63,68.62,31.16,52.63,3.37,8.92
+RHI Magnesita India Ltd.,RHIM.NS,Other Industrial Goods,10159.87,55,23.33,31.16,Expensive Underperformer,35.21,0.06,38.34,-272.39,-926.32,-2.76,9.9,5115.54,-2.61,2.47,8.96,8.84,17.18,56.07,0.51,-101.88
+Radico Khaitan Ltd.,RADICO.NS,Breweries & Distilleries,32445.52,55,12,61.09,Expensive Rocket,69.02,0.12,30.94,-35.82,-132.27,6.39,9.74,4094.98,10.74,11.23,12.8,13.91,13.8,40.24,0.12,113.01
+Rail Vikas Nigam Ltd.,RVNL.NS,Construction & Engineering,86736.84,80,22.33,36.68,Expensive Performer,41.44,0.63,8.44,268.78,-76.58,6.63,11.5,19611.99,18,18.62,17.43,16.74,15.89,72.84,0.51,64.35
+RailTel Corporation of India Ltd.,RAILTEL.NS,Telecom Services,13116.75,65,30.67,31.77,Falling Comet,35.89,0,32.39,59.86,-54.41,8.99,14.03,4049.58,13.47,12.89,11.76,18.43,16.6,72.84,0.7,50.26
+Rainbow Childrens Medicare Ltd.,RAINBOW.NS,Healthcare Facilities,16065.48,50,15.5,68.62,Expensive Rocket,77.53,0,10.75,-6.85,-558.9,16.25,27.28,2170.4,17.23,20.16,13.93,17.5,19.56,49.85,0.19,69.4
+Rajesh Exports Ltd.,RAJESHEXPO.NS,Gems & Jewellery,6672.88,50,52.5,26.05,Falling Comet,29.43,0,-17.31,-9.66,99.91,0.01,0.18,22071.79,2.2,6.67,7.8,3.29,7.6,54.55,0,174.33
+Ramkrishna Forgings Ltd.,RKFORGE.NS,Other Industrial Products,16442.5,60,39.17,51.09,Mid-range Performer,57.72,0.29,24.62,128.6,98.77,10.9,15.45,5308.03,12.72,16.62,10.66,16.28,18.36,43.17,0.22,36.43
+Rashtriya Chemicals & Fertilizers Ltd.,RCF.NS,Fertilizers,9685.44,50,38.67,42.46,Mid-range Performer,47.97,0.2,-20.6,145.19,-90.12,1.12,2.63,11455.72,4.89,14.68,12.36,7.28,15.8,75,0.71,49.36
+Ratnamani Metals & Tubes Ltd.,RATNAMANI.NS,Iron & Steel/Interm.Products,21931.79,65,26.67,36.15,Expensive Performer,40.84,0.01,13.87,173.02,5435.52,10.81,17.25,4019.83,19.83,17.93,17.13,25.52,23.07,59.77,0.45,41.34
+RattanIndia Enterprises Ltd.,RTNINDIA.NS,Electric Utilities,8542.43,75,53.17,31.1,"Value Stock, Under Radar",35.14,0,49.62,34.12,294203.45,9.9,10.98,2692.43,50.77,20.18,-24.07,68.78,33.57,74.86,0,11.91
+Raymond Ltd.,RAYMOND.NS,Realty,11289.9,55,76.83,36.95,Mid-range Performer,41.75,0.51,11.38,-6.06,-106.19,112.38,14.31,13172.95,35.46,21.58,11.77,14.79,18.49,48.87,0.59,1.44
+Redington Ltd.,REDINGTON.NS,Commodity Trading  & Distribution,15831.71,55,65.5,44.83,Mid-range Performer,50.65,0.01,12.69,-156.26,-120.59,1.31,2.19,24393.69,16.14,19.45,17.13,23.94,26.05,0,3.06,13.14
+Reliance Industries Ltd.,RELIANCE.NS,Refineries/Petro-Products,1714551.65,45,56.67,37.98,Mid-range Performer,42.91,0.28,3.1,27841,305.51,7.34,14.14,1755986,8.77,8.62,8.33,9.38,8.92,50.24,0.39,25.24
+Rites Ltd.,RITES.NS,Construction & Engineering,13437.68,50,31.67,26.79,Slowing Down Stock,30.27,0,-7,-61.45,-596.71,16.93,27.29,5661.44,17.45,19.67,20.09,22.89,25.04,72.2,2.82,33.74
+Route Mobile Ltd.,ROUTE.NS,Internet Software & Services,8636.97,35,37.33,31.75,Weak Stock,35.87,0.06,12.61,58.31,-72.8,8.77,11.56,3471.94,17.44,15.11,18.27,19.1,16.54,74.9,0.8,23.12
+SBFC Finance Ltd.,SBFC.NS,Finance (including NBFCs),9643.54,50,28,56.04,Expensive Performer,63.31,0.14,37.76,41.4,,26.03,65.45,7062.78,8.53,7.4,4.44,20.9,23.41,55.05,0,32.08
+SBI Cards and Payment Services Ltd.,SBICARD.NS,Finance (including NBFCs),70400.12,40,26.17,55.79,Expensive Performer,63.03,0.65,22.38,1492.26,1072.33,12.45,34.34,58171.23,19.92,21.24,20.53,26.84,28.91,68.61,0.34,31.85
+SBI Life Insurance Company Ltd.,SBILIFE.NS,Life Insurance,146084.53,45,38.83,42.19,Mid-range Performer,47.67,0,62.23,-2326.79,-149.74,1.45,1.72,398298.81,12.7,12.95,13.24,0.58,0.73,55.39,0.19,66.97
+SJVN Ltd.,SJVN.NS,Electric Utilities,40469.03,45,32.67,29.21,Slowing Down Stock,33,1.4,-12.35,309.2,215.84,34.15,60.38,39191.25,6.47,7.93,9.93,4.43,6.55,81.85,1.75,40.54
+SKF India Ltd.,SKFINDIA.NS,Other Industrial Goods,21480.81,65,29.33,30.36,Falling Comet,34.3,0,7.05,262.18,-19.52,11.81,16.12,3651.4,20.56,21.3,16.59,27.06,28.49,52.58,2.99,38.32
+SRF Ltd.,SRF.NS,Specialty Chemicals,74106.2,55,25,49.22,Expensive Performer,55.61,0.2,-11.53,-205.17,-1082.14,8.36,15.18,20481.94,11.63,18.2,18.55,13.29,19.67,50.26,0.29,65.62
+Sammaan Capital Ltd.,SAMMAANCAP.NS,Housing Finance ,11722.4,45,27.5,50.18,Expensive Performer,56.69,0,-1.16,-915.88,-107.95,-20.19,82.07,73066.4,6.13,6.56,8.26,34.24,30.62,0,1.26,-6.47
+Samvardhana Motherson International Ltd.,MOTHERSON.NS,Auto Parts & Equipment,107282.39,60,59.17,40.64,"Strong Performer, Under Radar",45.92,0.38,25.23,2187.9,106.35,3.46,5.73,85021.7,10.38,7.09,7.99,13.07,9.55,58.13,0.52,28.32
+Sanofi India Ltd.,SANOFI.NS,Pharmaceuticals,13749.96,45,22.5,32.42,Expensive Underperformer,36.63,0,,-610.4,,19.04,29.09,1714.8,59.38,0,0,77.98,0,60.4,2.8,29.91
+Sapphire Foods India Ltd.,SAPPHIRE.NS,Restaurants,10892.61,55,18.83,61.64,Expensive Rocket,69.64,0.01,14.41,49.35,100.42,0.66,6.58,2840.08,3.94,9.04,-4.68,7.13,8.05,26.2,0,604.91
+Saregama India Ltd.,SAREGAMA.NS,Movies & Entertainment,10700.93,65,17,58.65,Expensive Performer,66.26,0,9.67,24.98,504.98,20.54,34.12,2033.78,14.54,13.55,14.78,15.77,16.14,59.38,0.72,56.97
+Schaeffler India Ltd.,SCHAEFFLER.NS,Auto Parts & Equipment,55104.87,50,17.33,41.1,Expensive Performer,46.44,0,6.2,-96.58,,11.43,16.86,6266.51,18.7,13.07,7.84,25.15,17.32,74.13,0.74,60.48
+Schneider Electric Infrastructure Ltd.,SCHNEIDER.NS,Heavy Electrical Equipment,18183.86,85,11.17,36.14,Expensive Performer,40.83,1.26,23.84,27.94,211.73,8.18,12.82,1581.54,89.71,104.74,62.84,33.8,26.19,75,0,92.3
+Shipping Corporation of India Ltd.,SCI.NS,Shipping,9559.59,80,74,32.31,"Value Stock, Under Radar",36.5,0.21,-10.92,538.13,2702.18,17.92,14.83,12099.9,9,10.37,8.82,8.15,9.17,63.75,0.24,9.33
+Shree Cements Ltd.,SHREECEM.NS,Cement & Cement Products,93809.82,80,29.5,47.79,Expensive Performer,53.99,0.03,15.33,218.98,-41.78,8.73,15.67,27953.47,11.57,10.58,11.65,14.74,13.33,62.55,0.4,54.17
+Shree Renuka Sugars Ltd.,RENUKA.NS,Sugar,8277.7,,27.17,31.97,,36.12,-2.25,24.83,-136,-326.57,-3.91,4.03,10170.93,0,0,-47.57,20.89,16.27,62.48,0,-17.54
+Shriram Finance Ltd.,SHRIRAMFIN.NS,Finance (including NBFCs),109198.07,45,52.5,52.19,Mid-range Performer,58.97,1.95,19.35,-3750.48,-147.11,20.66,70.04,248265.94,15.04,13.09,12.92,17.47,15.94,25.4,1.62,13.58
+Shyam Metalics and Energy Ltd.,SHYAMMETL.NS,Iron & Steel/Interm.Products,21784.85,55,54.17,49.99,Mid-range Performer,56.48,0.03,4.97,-51.37,-138.3,5.9,8.13,14423.83,10.72,17.41,17.49,9.98,20.62,74.59,0.35,26.07
+Siemens Ltd.,SIEMENS.NS,Heavy Electrical Equipment,224259.76,60,12.17,44.08,Expensive Performer,49.8,0,15.54,0,100,12.21,16.63,25408.3,17.68,15.31,12.91,22.42,18.75,75,0.16,82.56
+Signatureglobal (India) Ltd.,SIGNATURE.NS,Realty,19179.71,80,10.17,50.26,Expensive Performer,56.78,2.07,-16.48,-28.28,-126.49,2.55,2.79,8473.34,2.58,-43.92,-26.35,1.76,-3.05,69.63,0,353.78
+Sobha Ltd.,SOBHA.NS,Realty,14388.31,45,23.17,32.73,Expensive Underperformer,36.98,0.28,-5.42,-165.66,-272.15,1.8,10.32,13696.49,1.95,3.59,4.98,9.71,16.63,52.77,0.21,265.19
+Solar Industries India Ltd.,SOLARINDS.NS,Other Industrial Products,87672.24,70,12.83,39.34,Expensive Performer,44.45,0.18,-12.08,309.27,287.22,15.67,20.92,5737.2,25.28,25.78,22.84,29.98,30.83,73.15,0.09,86.74
+Sona BLW Precision Forgings Ltd.,SONACOMS.NS,Auto Parts & Equipment,35617.84,70,20.83,33.18,Falling Comet,37.49,0.01,19.41,46.48,158.08,16.29,22.16,3864.91,19.51,18.28,20.39,22.05,20.97,28.04,0.53,62.81
+Sonata Software Ltd.,SONATSOFTW.NS,IT Consulting & Software,17124.14,50,22.83,37.49,Expensive Performer,42.36,0.31,16.21,117.73,-55.81,2.95,8.37,5149.12,21.93,30.3,31.84,35.07,34.7,28.17,0.72,61.97
+Star Health and Allied Insurance Company Ltd.,STARHEALTH.NS,General Insurance,27909.47,75,45.17,38.94,Mid-range Performer,44,0.07,15.9,156.23,-85.61,5.69,8.32,17767.74,13.23,0.68,0,16.88,2.37,57.68,0,32.37
+State Bank of India,SBIN.NS,Banks,688222.07,40,62.33,44.29,Mid-range Performer,50.04,1.65,25.6,7484.44,-91.98,15.24,,6733778.8,17.31,15.55,12.84,5.94,5.34,57.51,1.78,9.62
+Steel Authority of India (SAIL) Ltd.,SAIL.NS,Iron & Steel/Interm.Products,45477.08,60,68.33,30.97,"Value Stock, Under Radar",34.99,0.17,0.99,12.29,-96.25,2.53,6.58,140708.58,5.37,10.64,9.23,7.95,11.7,65,1.82,17.99
+Sterling and Wilson Renewable Energy Ltd.,SWSOLAR.NS,Construction & Engineering,10404.51,50,19.83,34.02,Expensive Underperformer,38.44,0.25,46.8,247.73,201.92,-1.38,1.52,4300.51,-21.86,-40.35,-27.1,3.68,-98.67,45.75,0,-204.09
+Sumitomo Chemical India Ltd.,SUMICHEM.NS,Agrochemicals,25406.52,70,24.83,41.55,Expensive Performer,46.94,0,-17.33,-0.26,-100.21,15.88,17.86,3313.27,15.13,19.39,19.47,20.22,25.52,75,1.16,52.56
+Sun Pharma Advanced Research Company Ltd.,SPARC.NS,Pharmaceuticals,6263.27,30,0.5,31.8,Weak Stock,35.93,0,-57.94,4.74,,-680.1,-509.8,515.04,-307.91,-117.1,-70.26,-154.06,-62.35,65.67,0,-15.33
+Sun Pharmaceutical Industries Ltd.,SUNPHARMA.NS,Pharmaceuticals,441717.57,85,30.33,56.29,Mid-range Performer,63.6,0,11.97,4734.62,552.05,21.97,24.37,85462.88,15.04,12.33,10.31,17.26,16.91,54.48,0.73,39.96
+Sun TV Network Ltd.,SUNTV.NS,Broadcasting & Cable TV,26466.72,75,52.5,33.25,"Value Stock, Under Radar",37.57,0,15.38,160.9,154.07,44.49,60.98,11420.95,18.27,18.93,20.52,24.67,25.44,75,2.31,14.4
+Sundaram Finance Ltd.,SUNDARMFIN.NS,Finance (including NBFCs),48650.73,50,28.5,50.17,Expensive Performer,56.68,2.52,31.4,357.35,319.94,19.55,75.28,64276.04,12.96,13.2,13.3,13.96,11.45,37.23,0.69,31.06
+Sundram Fasteners Ltd.,SUNDRMFAST.NS,Auto Parts & Equipment,22035.11,75,30.83,39.88,Mid-range Performer,45.06,0.02,0.23,-34.03,-142.03,9.39,12.83,4988.53,15.25,16.36,16.13,19.63,20.65,46.95,0.68,40.32
+Supreme Industries Ltd.,SUPREMEIND.NS,Plastic Products,58749.94,65,21.17,32.57,Falling Comet,36.8,0,10.49,422.67,-21.76,10.52,12.97,6555.71,20.93,21.92,23.46,24.88,23.97,48.85,0.69,53.85
+Suven Pharmaceuticals Ltd.,SUVENPHAR.NS,Pharmaceuticals,28159.98,50,9,52.17,Expensive Performer,58.94,0,-19.72,-17.57,-289.34,25.29,39.29,2254.09,14.64,22.68,27.25,19.24,29.86,50.1,0,115.83
+Suzlon Energy Ltd.,SUZLON.NS,Heavy Electrical Equipment,82350.62,75,13.17,43.73,Expensive Performer,49.41,0.01,9.64,59.61,-66.91,12.18,13.44,7179.02,16.84,92.01,54.6,21.04,23.7,13.25,0,85.81
+Swan Energy Ltd.,SWANENERGY.NS,Realty,21879.29,60,25.33,57.71,Expensive Performer,65.2,0.4,251.99,1117.91,1706.35,6.43,16.65,12167.52,4.79,-3.52,-3.78,7.7,3.27,53.96,0.01,65.92
+Syngene International Ltd.,SYNGENE.NS,Pharmaceuticals,35004.62,65,19.17,56.49,Expensive Performer,63.82,0.02,9.66,-4.9,-103.74,13.96,19.46,6151.6,11.97,12.27,14.02,13.56,13.25,54.72,0.14,72.64
+Syrma SGS Technology Ltd.,SYRMA.NS,Other Electrical Equipment/Products,10869.42,45,16.67,59.75,Expensive Performer,67.51,0.04,53.55,12.87,604.15,2.76,6.48,3689.43,6.65,8.03,7.47,11.14,12.31,46.89,0.25,102.55
+TBO Tek Ltd.,TBOTEK.NS,Travel Support Services,19381.29,50,9.83,43.62,Expensive Performer,49.28,0.25,30.37,184.51,891.89,13.96,17.57,4857.43,37.1,31.34,15.46,30.55,29.59,44.41,0,88.73
+TVS Motor Company Ltd.,TVSMOTOR.NS,2/3 Wheelers,112120.56,65,19.67,42.28,Expensive Performer,47.77,1.86,22.23,504.61,-3.26,4.51,11.94,42220.46,24.85,22.06,20.15,22.1,19.48,50.27,0.34,59.41
+TVS Supply Chain Solutions Ltd.,TVSSCS.NS,Transport Related Services,7432.49,45,30.33,31.76,Slowing Down Stock,35.88,0,-10.24,-586.43,-49.7,0.31,2.05,5829.36,-5.57,-2.31,-4.48,6.38,7.93,43.09,0,250.25
+Tanla Platforms Ltd.,TANLA.NS,Internet Software & Services,9446.78,45,49.83,34.8,Slowing Down Stock,39.32,0,17.44,-88.97,-123.2,13.51,17.55,3008.98,28.23,32.51,21.46,34.42,39.35,44.12,1.71,17.44
+Tata Chemicals Ltd.,TATACHEM.NS,Commodity Chemicals,25679.44,50,37.67,39.36,Mid-range Performer,44.47,0.13,-7.64,-88,83.96,-2.32,13.96,36756,1.2,6.61,15.19,7.01,8,37.98,1.49,-73.79
+Tata Communications Ltd.,TATACOMM.NS,Other Telecom Services,48343.12,55,27.33,33.98,Expensive Underperformer,38.39,2.66,16.76,-274.92,-830.67,4.07,9.74,24561.34,54.2,110.74,283.08,18.75,20.72,58.86,0.98,52.2
+Tata Consultancy Services Ltd.,TCS.NS,IT Consulting & Software,1483777.68,70,26,45.54,Expensive Performer,51.45,0,7.17,1828,193.22,19.08,26.45,146449,50.73,46.78,43.26,63.51,58.02,71.77,1.83,31.28
+Tata Consumer Products Ltd.,TATACONSUM.NS,Tea & Coffee,94737.98,70,21.5,37.93,Expensive Performer,42.85,0.01,10.75,261.31,-68.21,7.06,14.15,28020.94,7.16,6.91,5.99,9.86,9.26,33.84,0.81,82.36
+Tata Elxsi Ltd.,TATAELXSI.NS,IT Consulting & Software,40639.85,45,17,36.48,Expensive Performer,41.22,0,14.15,3.26,102.57,22.07,30.09,3186.98,31.61,34.05,30.57,38.99,41.21,43.91,1.07,49.75
+Tata Investment Corporation Ltd.,TATAINVEST.NS,Holding Companies,33509.52,70,28.83,41.39,Expensive Performer,46.76,0,38.97,105.95,3524.09,93.85,91.89,32870.16,1.28,1.21,1.17,1.07,1.1,73.38,0.42,90.94
+Tata Motors Ltd.,TATAMOTORS.NS,Cars & Utility Vehicles,294489.99,80,79.33,38.35,"Strong Performer, Under Radar",43.33,0.73,26.61,8081.28,-36.76,7.58,8.72,370663.96,36.97,5.54,-5.37,19.39,9.16,42.58,0.75,8.83
+Tata Power Company Ltd.,TATAPOWER.NS,Electric Utilities,119521.67,60,48.33,33.45,Falling Comet,37.79,1.16,11.89,-936.13,-161.48,5.9,14.35,139553.49,11.42,10.25,8.36,9.03,7.71,46.86,0.53,31.91
+Tata Steel Ltd.,TATASTEEL.NS,Iron & Steel/Interm.Products,164782.62,45,60.17,31.99,Falling Comet,36.14,0.56,-5.49,-5047.76,-142,1.31,6.21,273423.5,-4.82,12.92,10.22,8.13,16.34,33.19,2.73,56.47
+Tata Technologies Ltd.,TATATECH.NS,IT Software Products,35932.09,65,15.83,40.21,Expensive Performer,45.43,0,16.23,131.16,-66.82,12.55,18.58,5578.32,21.09,0,0,27.52,0,55.22,1.13,55.55
+Tata Teleservices (Maharashtra) Ltd.,TTML.NS,Telecom Services,14546.62,,11,34.27,,38.72,-0.49,7.26,18.2,143.83,-98.8,32.99,1306.99,0,0,0,-6.31,-4.76,74.36,0,-11.45
+Tech Mahindra Ltd.,TECHM.NS,IT Consulting & Software,162840.81,55,30.5,50.51,Mid-range Performer,57.07,0,-2.47,295.5,186.1,6.26,6.93,43423.6,8.84,15.61,16.63,11.7,18.91,35.03,2.58,49.75
+Techno Electric & Engineering Company Ltd.,TECHNOE.NS,Electric Utilities,17782.21,60,25.33,49.85,Expensive Performer,56.32,0,81.22,-13.99,-137.56,22.85,22.47,2833.68,12.41,12.15,11.93,14.88,12.59,56.92,0.46,49.16
+Tejas Networks Ltd.,TEJASNET.NS,Telecom Equipment,19679.18,65,36.83,39.15,Mid-range Performer,44.23,0,153.41,107.47,923.52,7.26,5.99,8202.53,1.99,-0.82,-4.22,4.27,-0.82,55.42,0,43.29
+The Fertilisers and Chemicals Travancore Ltd.,FACT.NS,Fertilizers,61665.96,55,3.67,51.51,Expensive Performer,58.2,0,-16.98,385.98,196.75,-1.63,10.6,5815.15,10.62,81.76,-30.83,33.93,82.14,90,0.1,-901.94
+The New India Assurance Company Ltd.,NIACL.NS,General Insurance,32282.67,55,57.5,27.46,Falling Comet,31.02,0,6.38,1888.12,624.8,3.08,3.35,108124.69,3.94,2.91,4.37,3.22,2.34,85.44,1.05,23.71
+The Ramco Cements Ltd.,RAMCOCEM.NS,Cement & Cement Products,22297.73,50,37.17,51.78,Mid-range Performer,58.5,0.54,14.96,-33.42,-167.27,3.1,10.2,16272.73,4.97,7.62,9.72,7.78,7.6,42.29,0.26,80.68
+Thermax Ltd.,THERMAX.NS,Heavy Electrical Equipment,47662.52,60,20.5,28.89,Falling Comet,32.64,0.18,15.83,23.49,-88.87,7.5,9.45,10153.01,14.53,11.7,9.69,16.24,14.15,61.98,0.3,64.28
+Timken India Ltd.,TIMKEN.NS,Other Industrial Products,21805.9,65,20.5,31.09,Falling Comet,35.13,0,3.17,94.49,136.52,12.97,18.14,2987.58,16.22,18.38,16.28,20.99,23.59,51.05,0.09,55.18
+Titagarh Rail Systems Ltd.,TITAGARH.NS,Commercial Vehicles,14939.36,75,27.17,32.13,Falling Comet,36.3,0.02,37.95,273.32,603.77,7.6,12.05,3216.41,12.89,8.79,4.03,18.68,17.59,40.46,0.07,49.55
+Titan Company Ltd.,TITAN.NS,Gems & Jewellery,309477.83,50,10,54.52,Expensive Performer,61.6,0.35,26.26,177,70.19,5.96,10.25,31550,37.21,29.33,24.69,34.89,33.04,52.9,0.32,95.43
+Torrent Pharmaceuticals Ltd.,TORNTPHARM.NS,Pharmaceuticals,111685.29,95,20.5,57.62,Expensive Performer,65.1,0.23,11.59,318.54,435.8,16.05,24.39,15060.58,24.15,19.1,19.99,27.16,24.19,71.25,0.85,61.98
+Torrent Power Ltd.,TORNTPOWER.NS,Electric Utilities,72456.28,55,39.33,38.59,Mid-range Performer,43.6,0.82,5.57,162.6,908.68,7.71,12.97,33392.48,15.19,12.99,12.89,13.78,14.59,51.09,1.11,32.3
+Trent Ltd.,TRENT.NS,Department Stores,238852.05,85,12.17,55.45,Expensive Performer,62.65,0.12,48.94,211.31,1102.68,12.05,12.44,7161.75,36.55,19.38,11.4,27.4,15.21,37.01,0.05,131.97
+Trident Ltd.,TRIDENT.NS,Textiles,16628.1,50,31,33.47,Slowing Down Stock,37.81,0.27,8.02,-90.98,58.68,4.62,9.29,7563.28,8.09,13.43,12.13,10.8,16.62,73.19,1.1,51.59
+Triveni Engineering & Industries Ltd.,TRIVENI.NS,Sugar,9290.03,50,38.67,55.71,Mid-range Performer,62.94,0.09,-7.29,4.4,121.18,5.74,11.19,5118.31,13.62,34.33,29.39,17.57,20.36,60.98,1.35,29.92
+Triveni Turbine Ltd.,TRITURBINE.NS,Heavy Electrical Equipment,23681.83,75,13.5,50.47,Expensive Performer,57.02,0,33.02,-2.62,90.98,16.99,21.78,1653.66,28.04,28.3,24.79,36.57,29.77,55.84,0.48,75.16
+Tube Investments of India Ltd.,TIINDIA.NS,Auto Parts & Equipment,67801.01,35,20,31.62,Weak Stock,35.72,0.01,13.46,-337.59,-257.77,6.34,10.27,13179.4,23.54,24.25,20.72,20.94,26.29,44.97,0.1,58.82
+UCO Bank,UCOBANK.NS,Banks,51709.52,50,64,30.87,Falling Comet,34.88,1.05,24.61,277.3,-94.99,16.88,,323548.45,6.9,6.4,4.01,5.81,5.29,95.39,0.65,13.03
+UNO Minda Ltd.,UNOMINDA.NS,Auto Parts & Equipment,60729.31,80,21.17,63.26,Expensive Star,71.47,0.14,24.63,116.42,299.01,6.03,7.78,9902.99,17.81,14.62,12.32,17.54,15.33,68.75,0.19,65.53
+UPL Ltd.,UPL.NS,Agrochemicals,41949.95,40,33.33,51.07,Mid-range Performer,57.7,0.97,-19.37,-492,69.29,-4.54,5.24,87546,-4.83,8.39,10.42,3.72,10.34,33.51,0.18,-20.93
+UTI Asset Management Company Ltd.,UTIAMC.NS,Asset Management Cos.,16120.06,75,46.83,48.56,Mid-range Performer,54.86,0,35.18,-58.55,-167.52,43.55,57.46,5341.02,17.44,14.52,13.71,19.69,17.65,0,3.73,19.15
+Ujjivan Small Finance Bank Ltd.,UJJIVANSFB.NS,Banks,6856.02,60,72.83,38.07,"Strong Performer, Under Radar",43.01,0.39,35.96,209.58,-64.76,18.8,,40422.22,22.82,11.44,9.26,10.66,8.97,0,4.23,5.89
+UltraTech Cement Ltd.,ULTRACEMCO.NS,Cement & Cement Products,329220.6,80,30.5,55.81,Mid-range Performer,63.06,0.09,12.21,183.77,125.79,9.25,14.72,100802.01,11.63,11.84,12.52,14.12,13.61,59.99,0.61,50.25
+Union Bank of India,UNIONBANK.NS,Banks,84908.6,70,86.5,32.15,"Value Stock, Under Radar",36.32,0.29,21.75,7046.98,561.32,14.55,,1401995.91,15.02,11.57,5.87,6.8,6.03,74.76,3.24,5.53
+United Breweries Ltd.,UBL.NS,Breweries & Distilleries,52645.7,55,14.83,46.57,Expensive Performer,52.62,0,8.57,-200.71,-152.77,5.52,6.87,7053.37,9.81,8.92,8.41,13.21,12.46,70.83,0.5,111.48
+United Spirits Ltd.,UNITDSPR.NS,Breweries & Distilleries,113539.48,70,13.67,60.02,Expensive Star,67.81,0,8.06,937,7908.55,12.44,17.23,11249,19.77,18.47,16.48,26.55,24.21,56.67,0.32,80.12
+Usha Martin Ltd.,USHAMART.NS,Iron & Steel Products,11334.88,85,40.83,41.98,Mid-range Performer,47.43,0.08,-0.92,-3.42,-294.32,12.79,17.42,3330.13,17.81,17.41,19.4,20.69,19.25,43.54,0.74,26.51
+V-Guard Industries Ltd.,VGUARD.NS,Household Appliances,18274.9,70,25.83,40.51,Expensive Performer,45.77,0.08,18.06,7.91,-96.93,5.62,7.82,3161.28,14.19,14.04,15.5,17.59,16.99,54.39,0.33,61.58
+VIP Industries Ltd.,VIPIND.NS,Other Apparels & Accessories,6761.54,30,9.83,41.93,Momentum Trap,47.37,0,7.49,10.28,-24.02,-2.04,4.71,2066.54,8,14.56,8.63,10.83,19.65,51.74,0.42,-147.83
+Valor Estate Ltd.,DBREALTY.NS,Realty,9100.07,60,48,31.41,Falling Comet,35.49,0.29,99.37,738.58,13995.59,74.06,386.55,9163.04,26.3,7.83,-3.21,19.39,0.36,47.38,0,27.58
+Vardhman Textiles Ltd.,VTL.NS,Textiles,14264.99,55,58.17,48.85,Mid-range Performer,55.19,0.05,-4.83,-41.3,66.21,8.29,9.41,11980.79,6.94,12.1,10.43,9.01,14.63,64.19,0.81,17.92
+Varroc Engineering Ltd.,VARROC.NS,Auto Parts & Equipment,9315.39,80,62.17,46.59,"Strong Performer, Under Radar",52.64,0.44,9.73,-192.13,40.41,6.73,6.14,4560.47,35.13,-34.88,-25.1,19.33,12.72,75,0,17.66
+Varun Beverages Ltd.,VBL.NS,Non-alcoholic Beverages,205764.88,60,12.83,50.73,Expensive Performer,57.32,0.46,22.03,85.81,361.41,13.39,18.74,15187.18,29.64,25.33,19.88,27.26,24.76,60.2,0.16,80.96
+Vedant Fashions Ltd.,MANYAVAR.NS,Specialty Retail,29997.27,55,11.17,46.58,Expensive Performer,52.63,0,3.01,11.95,629.74,29.95,43.35,2508.76,25.85,28.53,23.99,27.75,31.24,74.96,0.69,74.45
+Vedanta Ltd.,VEDL.NS,Aluminium and Aluminium Products,174807.7,35,67.67,46.47,Risky Value,52.5,1.65,-2.59,-4124,-1131.04,7.85,18.8,190807,13.79,23.12,15.16,24.09,25.91,56.38,9.73,15.42
+Vijaya Diagnostic Centre Ltd.,VIJAYA.NS,Healthcare Services,12393.54,70,12.33,69.13,Expensive Star,78.1,0,20.12,-3.56,92.73,21.14,33.72,982.75,18.08,19.01,16.11,20.3,20.89,53.91,0.08,93.48
+Vinati Organics Ltd.,VINATIORGA.NS,Specialty Chemicals,17550.59,40,21.83,34.2,Expensive Underperformer,38.64,0,-10.12,-124.86,-808.88,17.8,22.92,2839.79,14.03,17.88,19.43,16.61,22.15,74.28,0.41,47.48
+Vodafone Idea Ltd.,IDEA.NS,Telecom Services,55620.45,,27.83,41.11,,46.45,-1.95,0.65,-61,-267.47,-66.22,-12.64,184997.7,0,0,-247.09,-4.12,-4.57,37.32,0,-1.97
+Voltas Ltd.,VOLTAS.NS,Consumer Electronics,58073.57,75,23.33,65.23,Expensive Star,73.7,0.04,31.73,122.83,-31.26,3.86,5.45,12035.72,4.32,5.32,7.71,10.83,12.62,30.3,0.31,104.78
+Welspun Corp Ltd.,WELCORP.NS,Iron & Steel Products,20720.36,80,59.5,59.25,"Strong Performer, Under Radar",66.94,0.29,74.46,-203.4,24.34,7,8.39,11850.23,19.83,11.37,14.53,18.49,12.58,50.01,0.63,18.91
+Welspun Living Ltd.,WELSPUNLIV.NS,Textiles,14777.66,85,55.5,37.04,"Strong Performer, Under Radar",41.85,0.18,19.6,55.07,-40.87,6.82,11.57,9550.04,15.08,11.69,13.39,17.35,13.86,66.24,0.06,20.83
+Westlife Foodworld Ltd.,WESTLIFE.NS,Restaurants,12942.7,60,12.5,44.59,Expensive Performer,50.38,0,4.86,5.86,-39.7,0.9,8.59,2285.79,11.76,10.37,1.84,32.62,29.49,56.25,0,598.67
+Whirlpool of India Ltd.,WHIRLPOOL.NS,Consumer Electronics,21748.36,75,30.33,39.98,Mid-range Performer,45.17,0,2.92,555.09,-29.4,4.03,5.21,6139.86,5.88,9.65,12.08,8.15,8.09,51,0.29,72.15
+Wipro Ltd.,WIPRO.NS,IT Consulting & Software,310936.27,70,44.67,59.36,Mid-range Performer,67.07,0.08,-0.39,532.9,-79.85,13.24,17.82,114790.6,14.81,16.04,17.07,17.86,18.58,72.79,0.17,26.48
+YES Bank Ltd.,YESBANK.NS,Banks,58751.51,55,66.5,31.38,Falling Comet,35.45,1.91,22.87,-15.58,-100.07,5.99,,406361.55,3.04,2.66,-15.65,5.9,5.45,0,0,32.78
+ZF Commercial Vehicle Control Systems India Ltd.,ZFCVINDIA.NS,Auto Parts & Equipment,21634.44,80,20.17,35.48,Expensive Performer,40.09,0,11.37,27.82,,11.03,14.45,3381.63,14.56,11.49,6.89,19.2,15.28,67.49,0.15,52.82
+Zee Entertainment Enterprises Ltd.,ZEEL.NS,Broadcasting & Cable TV,12777.79,75,68.33,42.38,"Strong Performer, Under Radar",47.88,0,7.33,393.3,-21.45,4.78,8.46,13449.7,1.3,3.54,4.83,6.52,9.62,3.99,0,31.99
+Zensar Technologies Ltd.,ZENSARTECH.NS,IT Consulting & Software,17998.9,65,41.83,65.35,"Strong Performer, Getting Expensive",73.83,0,2.22,-30.1,78.06,12.89,18.29,4647.8,18.66,15.05,14.11,23.63,19.37,49.13,1.13,27.75
+Zomato Ltd.,ZOMATO.NS,Internet & Catalogue Retail,242802.82,80,10.83,49.72,Expensive Performer,56.17,0,67,92,-34.45,4.68,2.99,23356,1.71,-3.53,-107.75,1.7,-4.05,0,0,327.23
+Zydus Lifesciences Ltd.,ZYDUSLIFE.NS,Pharmaceuticals,101126.52,80,47,50.64,Mid-range Performer,57.21,0,13.82,-57.7,-367.13,20.66,25.08,29280.8,19.46,19.01,16.96,20.48,17.07,74.98,0.3,22.78
+eClerx Services Ltd.,ECLERX.NS,BPO/KPO,15796.11,60,31.17,54.41,Mid-range Performer,61.47,0,10.22,-68.49,-139.88,16.63,24.42,2928.96,22.75,25.96,22.54,28,31.9,53.81,0.03,30.32

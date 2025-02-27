@@ -1,0 +1,6 @@
+﻿asset_code,asset_name,currency
+^NSEI,NIFTY,INR
+^BSESN,Sensex,INR
+^GSPC,S&P 500,USD
+^IXIC,NASDAQ,USD
+GC=F,Gold Futures,USD
